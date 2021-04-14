@@ -4,7 +4,7 @@ A modpack for the current version of Minecraft, built on the Fabric modloader in
 
 # The Official Kanpeki SMP
 
-If you love playing the Kanpeki modpack, then we would love to have you join our server! Our private SMP is a unique and exciting way to experience modded survival Minecraft and create experiences that would be impossible elsewhere and with new friends! When you support me on Patreon, I will thank you with access to the Kanpeki SMP and member-only channels on the Kanpeki Discord. [See this post](https://www.patreon.com/posts/getting-started-49655292) for more information about joining our SMP!
+If you love playing the Kanpeki modpack, then we would love to have you join our server! Our private SMP is a unique and exciting way to experience modded survival Minecraft and create experiences that would be impossible elsewhere and with new friends! When you support me on Patreon, I will thank you with access to the Kanpeki SMP and member-only channels on the Kanpeki Discord. [See this post](https://www.patreon.com/posts/getting-started-49655292) for more information about joining our SMP! You are encouraged to live-stream from the SMP if that's what you want to do, the pack was made to be immersive and add plenty of unique content without getting boring or too difficult, making for more fun overall.
 
 # Bugs & Other Issues
 
