@@ -2,8 +2,6 @@
 
 [Discord](https://discord.gg/9qJqG9nvN3) // [Patreon](https://patreon.com/kanpeki)
 
-# About Kanpeki
-
 A modpack for the current version of Minecraft, built on the Fabric modloader in order to make updating to newer versions of the game less painful. We strive to keep the game fun and relevant, while still being accessible to most types of players. The pack is built to be OptiFine compatible, but it should also work with other types of shader mods. Both Optifine and OptiFabric must be installed in your Kanpeki instance if you wish to use them. 
 
 # The Official Kanpeki SMP
