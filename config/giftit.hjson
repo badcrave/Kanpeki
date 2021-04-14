@@ -1,0 +1,20 @@
+{
+	// The amount of uses for the gift paper.
+	// Use 0 for infinite uses.
+	// 1 or infinite uses will change the stack size to 64.
+	// default: 4
+	// Must be greater or equal to -1
+	max-paper-damage: 1
+	// Restrict wrapping blocks completely to blocks with inventories
+	// default: false
+	restrict-to-inventories: false
+	// Allow gift recursion (packing gifts into gifts).
+	// default: true
+	allow-gift-recursion: true
+	// Enable wrapping entities by clicking on them with gift paper.
+	// default: false
+	enable-entity-wrapping: false
+	// Forbid large entities (> 1.5x3x1.5)
+	// default: true
+	forbid-large-entities: true
+}

@@ -1,0 +1,3641 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 27, 2021 10:32:35 PM
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+- blockus:soul_sandstone
+- blockus:smooth_soul_sandstone
+- blockus:soul_sandstone_bricks
+- blockus:small_soul_sandstone_bricks
+- blockus:cut_soul_sandstone
+- blockus:chiseled_soul_sandstone
+- blockus:soul_sandstone_pillar
+- blockus:phantom_purpur_block
+- blockus:phantom_purpur_pillar
+- blockus:phantom_purpur_bricks
+- blockus:smooth_phantom_purpur
+- blockus:phantom_purpur_squares
+- blockus:phantom_purpur_little_bricks
+- blockus:chiseled_phantom_purpur
+- blockus:phantom_purpur_lines
+
+#c:iridium_ores
+- techreborn:iridium_ore
+
+#c:nickel_blocks
+- techreborn:nickel_storage_block
+
+#wild_explorer:potted_mushrooms
+- wild_explorer:potted_white_mushroom
+- wild_explorer:potted_light_gray_mushroom
+- wild_explorer:potted_gray_mushroom
+- wild_explorer:potted_black_mushroom
+- wild_explorer:potted_orange_mushroom
+- wild_explorer:potted_yellow_mushroom
+- wild_explorer:potted_yellow_mushroom
+- wild_explorer:potted_lime_mushroom
+- wild_explorer:potted_green_mushroom
+- wild_explorer:potted_cyan_mushroom
+- wild_explorer:potted_light_blue_mushroom
+- wild_explorer:potted_blue_mushroom
+- wild_explorer:potted_purple_mushroom
+- wild_explorer:potted_magenta_mushroom
+- wild_explorer:potted_pink_mushroom
+
+#c:tungstensteel_blocks
+- techreborn:tungstensteel_storage_block
+
+#extraalchemy:heat_conductor
+- minecraft:bricks
+- minecraft:brick_slab
+- minecraft:smooth_stone
+- minecraft:smooth_stone_slab
+- minecraft:stone_bricks
+- minecraft:stone_brick_slab
+- minecraft:quartz_slab
+- minecraft:quartz_block
+
+#c:peridot_ores
+- techreborn:peridot_ore
+
+#terrestria:cypress_logs
+- terrestria:cypress_log
+- terrestria:cypress_quarter_log
+- terrestria:cypress_wood
+- terrestria:stripped_cypress_log
+- terrestria:stripped_cypress_quarter_log
+- terrestria:stripped_cypress_wood
+
+#c:end_stones
+- betterend:flavolite
+- betterend:violecite
+- betterend:sulphuric_rock
+
+#wild_explorer:palm_logs
+- wild_explorer:palm_log
+- wild_explorer:stripped_palm_log
+- wild_explorer:palm_wood
+- wild_explorer:stripped_palm_wood
+
+#c:sphalerite_ores
+- techreborn:sphalerite_ore
+
+#terrestria:sakura_logs
+- terrestria:sakura_log
+- terrestria:stripped_sakura_log
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+- #blockus:patterned_wool
+- allure:cocoa_beans_sack
+- allure:berry_sack
+- allure:gunpowder_sack
+
+#campanion:topped_tent_poles
+- campanion:light_blue_topped_tent_pole
+- campanion:yellow_topped_tent_pole
+- campanion:gray_topped_tent_pole
+- campanion:magenta_topped_tent_pole
+- campanion:black_topped_tent_pole
+- campanion:cyan_topped_tent_pole
+- campanion:orange_topped_tent_pole
+- campanion:lime_topped_tent_pole
+- campanion:red_topped_tent_pole
+- campanion:white_topped_tent_pole
+- campanion:pink_topped_tent_pole
+- campanion:blue_topped_tent_pole
+- campanion:brown_topped_tent_pole
+- campanion:green_topped_tent_pole
+- campanion:light_gray_topped_tent_pole
+- campanion:purple_topped_tent_pole
+
+#minecraft:beehives
+- minecraft:bee_nest
+- minecraft:beehive
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:frosted_ice
+- blockus:ice_bricks
+- blockus:ice_pillar
+- blockus:ice_bricks_wall
+
+#c:tin_ores
+- techreborn:tin_ore
+
+#minecraft:dragon_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:end_stone
+- minecraft:iron_bars
+- minecraft:respawn_anchor
+- enderitemod:enderite_ore
+- enderitemod:cracked_enderite_ore
+- enderitemod:enderite_block
+- enderitemod:enderite_respawn_anchor
+- blockus:obsidian_bricks
+- blockus:obsidian_bricks_stairs
+- blockus:obsidian_bricks_slab
+- blockus:obsidian_bricks_wall
+- blockus:cracked_obsidian_bricks
+- blockus:obsidian_pillar
+- blockus:obsidian_circle_pavement
+- blockus:obsidian_reinforced_door
+- blockus:obsidian_reinforced_trapdoor
+- blockus:glowing_obsidian
+- blockus:legacy_crying_obsidian
+- blockus:legacy_glowing_obsidian
+- blockus:nether_stars_block
+
+#minecraft:crops
+- minecraft:beetroots
+- minecraft:carrots
+- minecraft:potatoes
+- minecraft:wheat
+- minecraft:melon_stem
+- minecraft:pumpkin_stem
+
+#c:brass_blocks
+- techreborn:brass_storage_block
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- blockus:warped_small_stems
+
+#c:steel_blocks
+- techreborn:steel_storage_block
+
+#terrestria:yucca_palm_logs
+- terrestria:yucca_palm_log
+- terrestria:stripped_yucca_palm_log
+
+#c:cinnabar_ores
+- techreborn:cinnabar_ore
+
+#repurposed_structures:badlands_well_ores
+- minecraft:gold_ore
+
+#adorn:wooden_posts
+- adorn:oak_post
+- adorn:spruce_post
+- adorn:birch_post
+- adorn:jungle_post
+- adorn:acacia_post
+- adorn:dark_oak_post
+- adorn:crimson_post
+- adorn:warped_post
+- adorn:traverse_fir_post
+- adorn:terrestria_cypress_post
+- adorn:terrestria_hemlock_post
+- adorn:terrestria_japanese_maple_post
+- adorn:terrestria_rainbow_eucalyptus_post
+- adorn:terrestria_redwood_post
+- adorn:terrestria_rubber_post
+- adorn:terrestria_sakura_post
+- adorn:terrestria_willow_post
+
+#pistoncontrol:sticky_blocks
+- minecraft:slime_block
+- minecraft:honey_block
+
+#minecraft:prevent_mob_spawning_inside
+- #minecraft:rails
+
+#minecraft:climbable
+- minecraft:ladder
+- minecraft:vine
+- minecraft:scaffolding
+- minecraft:weeping_vines
+- minecraft:weeping_vines_plant
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- adorn:chain_link_fence
+- adorn:stone_ladder
+- campanion:rope_ladder
+- betterend:end_lotus_ladder
+- betterend:bulb_vine
+- betterend:pythadendron_ladder
+- betterend:tenanea_ladder
+- betterend:umbrella_tree_ladder
+- betterend:mossy_glowshroom_ladder
+- betterend:dragon_tree_ladder
+- betterend:lacugrove_ladder
+- betterend:jellyshroom_ladder
+- betterend:dense_vine
+- betterend:tenanea_flowers
+- betterend:helix_tree_ladder
+- betterend:jungle_vine
+- betterend:twisted_vine
+
+#repurposed_structures:jungle_fortress_staircase_soils
+- minecraft:coarse_dirt
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- blockus:dark_oak_small_logs
+
+#c:ruby_blocks
+- techreborn:ruby_storage_block
+
+#campanion:tent_poles
+- campanion:tent_pole
+- #campanion:topped_tent_poles
+
+#adorn:platforms
+- #adorn:wooden_platforms
+- #adorn:stone_platforms
+
+#minecraft:coral_plants
+- minecraft:tube_coral
+- minecraft:brain_coral
+- minecraft:bubble_coral
+- minecraft:fire_coral
+- minecraft:horn_coral
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+- nookbuild:crimson_hyphae_stairs
+- nookbuild:crimson_hyphae_slab
+- nookbuild:crimson_hyphae_button
+- nookbuild:warped_hyphae_stairs
+- nookbuild:warped_hyphae_slab
+- nookbuild:warped_hyphae_button
+- wild_explorer:dark_amaranth_planks
+- wild_explorer:dark_amaranth_slab
+- wild_explorer:dark_amaranth_pressure_plate
+- wild_explorer:dark_amaranth_fence
+- wild_explorer:dark_amaranth_trapdoor
+- wild_explorer:dark_amaranth_fence_gate
+- wild_explorer:dark_amaranth_stairs
+- wild_explorer:dark_amaranth_button
+- wild_explorer:dark_amaranth_door
+- wild_explorer:dark_amaranth_hyphae_stairs
+- wild_explorer:dark_amaranth_hyphae_slab
+- wild_explorer:dark_amaranth_hyphae_button
+- blockus:charred_planks
+- blockus:charred_slab
+- blockus:charred_pressure_plate
+- blockus:charred_fence
+- blockus:charred_trapdoor
+- blockus:charred_fence_gate
+- blockus:charred_stairs
+- blockus:charred_button
+- blockus:charred_door
+- cinderscapes:stripped_scorched_stem
+- cinderscapes:scorched_stem
+- cinderscapes:stripped_scorched_hyphae
+- cinderscapes:scorched_hyphae
+- cinderscapes:scorched_planks
+- cinderscapes:scorched_slab
+- cinderscapes:scorched_pressure_plate
+- cinderscapes:scorched_fence
+- cinderscapes:scorched_trapdoor
+- cinderscapes:scorched_fence_gate
+- cinderscapes:scorched_stairs
+- cinderscapes:scorched_button
+- cinderscapes:scorched_door
+- cinderscapes:scorched_sign
+- cinderscapes:scorched_wall_sign
+- cinderscapes:stripped_umbral_stem
+- cinderscapes:umbral_stem
+- cinderscapes:stripped_umbral_hyphae
+- cinderscapes:umbral_hyphae
+- cinderscapes:umbral_hyphae
+- cinderscapes:umbral_planks
+- cinderscapes:umbral_slab
+- cinderscapes:umbral_pressure_plate
+- cinderscapes:umbral_fence
+- cinderscapes:umbral_trapdoor
+- cinderscapes:umbral_fence_gate
+- cinderscapes:umbral_stairs
+- cinderscapes:umbral_button
+- cinderscapes:umbral_door
+- cinderscapes:umbral_sign
+- cinderscapes:umbral_wall_sign
+
+#betterend:pythadendron_logs
+- betterend:pythadendron_bark
+- betterend:pythadendron_stripped_log
+- betterend:pythadendron_stripped_bark
+- betterend:pythadendron_log
+
+#nookbuild:brick_tiles/slabs
+- nookbuild:brick_tile_slab
+- nookbuild:white_brick_tile_slab
+- nookbuild:light_gray_brick_tile_slab
+- nookbuild:gray_brick_tile_slab
+- nookbuild:black_brick_tile_slab
+- nookbuild:brown_brick_tile_slab
+- nookbuild:red_brick_tile_slab
+- nookbuild:orange_brick_tile_slab
+- nookbuild:yellow_brick_tile_slab
+- nookbuild:lime_brick_tile_slab
+- nookbuild:green_brick_tile_slab
+- nookbuild:cyan_brick_tile_slab
+- nookbuild:light_blue_brick_tile_slab
+- nookbuild:blue_brick_tile_slab
+- nookbuild:purple_brick_tile_slab
+- nookbuild:magenta_brick_tile_slab
+- nookbuild:pink_brick_tile_slab
+
+#adorn:shelves
+- #adorn:wooden_shelves
+- adorn:iron_shelf
+
+#blockus:soul_sandstone
+- blockus:soul_sandstone
+- blockus:soul_sandstone_slab
+- blockus:soul_sandstone_stairs
+- blockus:rough_soul_sandstone
+- blockus:rough_soul_sandstone_slab
+- blockus:rough_soul_sandstone_stairs
+- blockus:smooth_soul_sandstone
+- blockus:smooth_soul_sandstone_slab
+- blockus:smooth_soul_sandstone_stairs
+- blockus:soul_sandstone_bricks
+- blockus:soul_sandstone_bricks_slab
+- blockus:soul_sandstone_bricks_stairs
+- blockus:small_soul_sandstone_bricks
+- blockus:small_soul_sandstone_bricks_slab
+- blockus:small_soul_sandstone_bricks_stairs
+- blockus:cut_soul_sandstone
+- blockus:cut_soul_sandstone_slab
+- blockus:chiseled_soul_sandstone
+- blockus:soul_sandstone_pillar
+
+#c:pyrite_ores
+- techreborn:pyrite_ore
+
+#blockus:patterned_wool
+- blockus:white_patterned_wool
+- blockus:orange_patterned_wool
+- blockus:magenta_patterned_wool
+- blockus:light_blue_patterned_wool
+- blockus:yellow_patterned_wool
+- blockus:lime_patterned_wool
+- blockus:pink_patterned_wool
+- blockus:gray_patterned_wool
+- blockus:light_gray_patterned_wool
+- blockus:cyan_patterned_wool
+- blockus:purple_patterned_wool
+- blockus:blue_patterned_wool
+- blockus:brown_patterned_wool
+- blockus:green_patterned_wool
+- blockus:red_patterned_wool
+- blockus:black_patterned_wool
+
+#adorn:stone_posts
+- adorn:stone_post
+- adorn:cobblestone_post
+- adorn:sandstone_post
+- adorn:andesite_post
+- adorn:granite_post
+- adorn:diorite_post
+- adorn:brick_post
+- adorn:stone_brick_post
+- adorn:red_sandstone_post
+- adorn:nether_brick_post
+- adorn:basalt_post
+- adorn:terrestria_basalt_post
+- adorn:terrestria_basalt_cobblestone_post
+
+#c:sapphire_blocks
+- techreborn:sapphire_storage_block
+
+#betterend:lacugrove_logs
+- betterend:lacugrove_bark
+- betterend:lacugrove_stripped_log
+- betterend:lacugrove_log
+- betterend:lacugrove_stripped_bark
+
+#c:electrum_blocks
+- techreborn:electrum_storage_block
+
+#betterend:end_lotus_logs
+- betterend:end_lotus_log
+- betterend:end_lotus_bark
+- betterend:end_lotus_stripped_log
+- betterend:end_lotus_stripped_bark
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- techreborn:rubber_fence
+- techreborn:refined_iron_fence
+- betterend:tenanea_fence
+- betterend:helix_tree_fence
+- betterend:jellyshroom_fence
+- betterend:end_lotus_fence
+- betterend:lacugrove_fence
+- betterend:pythadendron_fence
+- betterend:umbrella_tree_fence
+- betterend:mossy_glowshroom_fence
+- betterend:dragon_tree_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- techreborn:rubber_sapling
+- wild_explorer:autumn_oak_sapling
+- wild_explorer:autumn_birch_sapling
+- wild_explorer:pink_cherry_oak_sapling
+- wild_explorer:white_cherry_oak_sapling
+- wild_explorer:palm_sapling
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- terrestria:redwood_sapling
+- terrestria:hemlock_sapling
+- terrestria:rubber_sapling
+- terrestria:cypress_sapling
+- terrestria:japanese_maple_sapling
+- terrestria:japanese_maple_shrub_sapling
+- terrestria:dark_japanese_maple_sapling
+- terrestria:rainbow_eucalyptus_sapling
+- terrestria:sakura_sapling
+- terrestria:jungle_palm_sapling
+- terrestria:willow_sapling
+- terrestria:saguaro_cactus_sapling
+- terrestria:bryce_sapling
+- terrestria:saguaro_cactus_sapling
+- terrestria:yucca_palm_sapling
+- traverse:brown_autumnal_sapling
+- traverse:red_autumnal_sapling
+- traverse:yellow_autumnal_sapling
+- traverse:orange_autumnal_sapling
+- traverse:fir_sapling
+
+#nookbuild:dark_prismarine/walls
+- nookbuild:dark_prismarine_wall
+- nookbuild:white_dark_prismarine_wall
+- nookbuild:light_gray_dark_prismarine_wall
+- nookbuild:gray_dark_prismarine_wall
+- nookbuild:black_dark_prismarine_wall
+- nookbuild:brown_dark_prismarine_wall
+- nookbuild:red_dark_prismarine_wall
+- nookbuild:orange_dark_prismarine_wall
+- nookbuild:yellow_dark_prismarine_wall
+- nookbuild:lime_dark_prismarine_wall
+- nookbuild:green_dark_prismarine_wall
+- nookbuild:cyan_dark_prismarine_wall
+- nookbuild:light_blue_dark_prismarine_wall
+- nookbuild:blue_dark_prismarine_wall
+- nookbuild:purple_dark_prismarine_wall
+- nookbuild:magenta_dark_prismarine_wall
+- nookbuild:pink_dark_prismarine_wall
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#minecraft:unstable_bottom_center
+- #minecraft:fence_gates
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- blockus:paper_door
+- blockus:obsidian_reinforced_door
+- blockus:stone_door
+- blockus:blackstone_door
+- glassdoor:iron_glassdoor
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- betterend:pythadendron_door
+- betterend:mossy_glowshroom_door
+- betterend:lacugrove_door
+- betterend:helix_tree_door
+- betterend:tenanea_door
+- betterend:jellyshroom_door
+- betterend:dragon_tree_door
+- betterend:end_lotus_door
+- betterend:umbrella_tree_door
+
+#nookbuild:terracotta/stairs
+- nookbuild:terracotta_stairs
+- nookbuild:white_terracotta_stairs
+- nookbuild:light_gray_terracotta_stairs
+- nookbuild:gray_terracotta_stairs
+- nookbuild:black_terracotta_stairs
+- nookbuild:brown_terracotta_stairs
+- nookbuild:red_terracotta_stairs
+- nookbuild:orange_terracotta_stairs
+- nookbuild:yellow_terracotta_stairs
+- nookbuild:yellow_terracotta_stairs
+- nookbuild:lime_terracotta_stairs
+- nookbuild:green_terracotta_stairs
+- nookbuild:cyan_terracotta_stairs
+- nookbuild:light_blue_terracotta_stairs
+- nookbuild:blue_terracotta_stairs
+- nookbuild:purple_terracotta_stairs
+- nookbuild:magenta_terracotta_stairs
+- nookbuild:pink_terracotta_stairs
+
+#minecraft:enderman_holdable
+- #minecraft:small_flowers
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:gravel
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:tnt
+- minecraft:cactus
+- minecraft:clay
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:melon
+- minecraft:mycelium
+- minecraft:crimson_fungus
+- minecraft:crimson_nylium
+- minecraft:crimson_roots
+- minecraft:warped_fungus
+- minecraft:warped_nylium
+- minecraft:warped_roots
+- #wild_explorer:mushrooms
+- wild_explorer:dark_amaranth_fungus
+- wild_explorer:dark_amaranth_roots
+- #minecraft:small_flowers
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:gravel
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:tnt
+- minecraft:cactus
+- minecraft:clay
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:melon
+- minecraft:mycelium
+- minecraft:netherrack
+- terrestria:basalt_grass_block
+- terrestria:basalt_dirt
+- terrestria:basalt_sand
+- terrestria:basalt_podzol
+- cinderscapes:umbral_fungus
+- cinderscapes:umbral_nylium
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+- minecraft:white_wall_banner
+- minecraft:orange_wall_banner
+- minecraft:magenta_wall_banner
+- minecraft:light_blue_wall_banner
+- minecraft:yellow_wall_banner
+- minecraft:lime_wall_banner
+- minecraft:pink_wall_banner
+- minecraft:gray_wall_banner
+- minecraft:light_gray_wall_banner
+- minecraft:cyan_wall_banner
+- minecraft:purple_wall_banner
+- minecraft:blue_wall_banner
+- minecraft:brown_wall_banner
+- minecraft:green_wall_banner
+- minecraft:red_wall_banner
+- minecraft:black_wall_banner
+
+#cinderscapes:umbral_stems
+- cinderscapes:stripped_umbral_stem
+- cinderscapes:umbral_stem
+- cinderscapes:stripped_umbral_hyphae
+- cinderscapes:umbral_hyphae
+
+#minecraft:infiniburn_overworld
+- minecraft:netherrack
+- minecraft:magma_block
+- blockus:polished_netherrack
+- blockus:polished_netherrack_slab
+- blockus:polished_netherrack_stairs
+- blockus:netherrack_circle_pavement
+- blockus:magma_bricks
+- blockus:magma_bricks_slab
+- blockus:magma_bricks_stairs
+- blockus:charcoal_block
+- allure:charcoal_block
+- allure:blaze_lantern
+
+#minecraft:flower_pots
+- minecraft:flower_pot
+- minecraft:potted_poppy
+- minecraft:potted_blue_orchid
+- minecraft:potted_allium
+- minecraft:potted_azure_bluet
+- minecraft:potted_red_tulip
+- minecraft:potted_orange_tulip
+- minecraft:potted_white_tulip
+- minecraft:potted_pink_tulip
+- minecraft:potted_oxeye_daisy
+- minecraft:potted_dandelion
+- minecraft:potted_oak_sapling
+- minecraft:potted_spruce_sapling
+- minecraft:potted_birch_sapling
+- minecraft:potted_jungle_sapling
+- minecraft:potted_acacia_sapling
+- minecraft:potted_dark_oak_sapling
+- minecraft:potted_red_mushroom
+- minecraft:potted_brown_mushroom
+- minecraft:potted_dead_bush
+- minecraft:potted_fern
+- minecraft:potted_cactus
+- minecraft:potted_cornflower
+- minecraft:potted_lily_of_the_valley
+- minecraft:potted_wither_rose
+- minecraft:potted_bamboo
+- minecraft:potted_crimson_fungus
+- minecraft:potted_warped_fungus
+- minecraft:potted_crimson_roots
+- minecraft:potted_warped_roots
+- blockus:potted_white_oak_sapling
+- minecraft:flower_pot
+- minecraft:potted_poppy
+- minecraft:potted_blue_orchid
+- minecraft:potted_allium
+- minecraft:potted_azure_bluet
+- minecraft:potted_red_tulip
+- minecraft:potted_orange_tulip
+- minecraft:potted_white_tulip
+- minecraft:potted_pink_tulip
+- minecraft:potted_oxeye_daisy
+- minecraft:potted_dandelion
+- minecraft:potted_oak_sapling
+- minecraft:potted_spruce_sapling
+- minecraft:potted_birch_sapling
+- minecraft:potted_jungle_sapling
+- minecraft:potted_acacia_sapling
+- minecraft:potted_dark_oak_sapling
+- minecraft:potted_red_mushroom
+- minecraft:potted_brown_mushroom
+- minecraft:potted_dead_bush
+- minecraft:potted_fern
+- minecraft:potted_cactus
+- minecraft:potted_cornflower
+- minecraft:potted_lily_of_the_valley
+- minecraft:potted_wither_rose
+- minecraft:potted_bamboo
+- terrestria:potted_indian_paintbrush
+- terrestria:potted_monsteras
+- terrestria:potted_redwood_sapling
+- terrestria:potted_hemlock_sapling
+- terrestria:potted_rubber_sapling
+- terrestria:potted_cypress_sapling
+- terrestria:potted_willow_sapling
+- terrestria:potted_japanese_maple_sapling
+- terrestria:potted_rainbow_eucalyptus_sapling
+- terrestria:potted_japanese_maple_shrub_sapling
+- terrestria:potted_dark_japanese_maple_sapling
+- terrestria:potted_sakura_sapling
+- terrestria:potted_jungle_palm_sapling
+- terrestria:potted_saguaro_cactus_sapling
+- terrestria:potted_yucca_palm_sapling
+- traverse:potted_red_autumnal_sapling
+- traverse:potted_brown_autumnal_sapling
+- traverse:potted_orange_autumnal_sapling
+- traverse:potted_yellow_autumnal_sapling
+- traverse:potted_fir_sapling
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- techreborn:rubber_fence
+- wild_explorer:cherry_oak_fence
+- wild_explorer:palm_fence
+- wild_explorer:dark_amaranth_fence
+- blockus:bamboo_fence
+- blockus:charred_fence
+- blockus:white_oak_fence
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- terrestria:redwood_fence
+- terrestria:hemlock_fence
+- terrestria:rubber_fence
+- terrestria:cypress_fence
+- terrestria:japanese_maple_fence
+- terrestria:rainbow_eucalyptus_fence
+- terrestria:sakura_fence
+- terrestria:willow_fence
+- terrestria:yucca_palm_fence
+- traverse:fir_fence
+- cinderscapes:scorched_fence
+- cinderscapes:umbral_fence
+- betterend:tenanea_fence
+- betterend:helix_tree_fence
+- betterend:jellyshroom_fence
+- betterend:end_lotus_fence
+- betterend:lacugrove_fence
+- betterend:pythadendron_fence
+- betterend:umbrella_tree_fence
+- betterend:mossy_glowshroom_fence
+- betterend:dragon_tree_fence
+
+#c:limestone
+- blockus:limestone
+- blockus:limestone_bricks
+- blockus:limestone_pillar
+- blockus:chiseled_limestone
+- blockus:limestone_circle_pavement
+
+#c:bronze_blocks
+- techreborn:bronze_storage_block
+
+#minecraft:wall_post_override
+- minecraft:torch
+- minecraft:soul_torch
+- minecraft:redstone_torch
+- minecraft:tripwire
+- #minecraft:signs
+- #minecraft:banners
+- #minecraft:pressure_plates
+
+#terraform:soil
+- terrestria:basalt_dirt
+- terrestria:basalt_grass_block
+- terrestria:basalt_podzol
+
+#techreborn:rubber_logs
+- techreborn:rubber_log
+- techreborn:rubber_log_stripped
+- techreborn:rubber_wood
+- techreborn:stripped_rubber_wood
+
+#betterend:tenanea_logs
+- betterend:tenanea_bark
+- betterend:tenanea_log
+- betterend:tenanea_stripped_log
+- betterend:tenanea_stripped_bark
+
+#nookbuild:dark_prismarine/slabs
+- minecraft:dark_prismarine_slab
+- nookbuild:white_dark_prismarine_slab
+- nookbuild:light_gray_dark_prismarine_slab
+- nookbuild:gray_dark_prismarine_slab
+- nookbuild:black_dark_prismarine_slab
+- nookbuild:brown_dark_prismarine_slab
+- nookbuild:red_dark_prismarine_slab
+- nookbuild:orange_dark_prismarine_slab
+- nookbuild:yellow_dark_prismarine_slab
+- nookbuild:lime_dark_prismarine_slab
+- nookbuild:green_dark_prismarine_slab
+- nookbuild:cyan_dark_prismarine_slab
+- nookbuild:light_blue_dark_prismarine_slab
+- nookbuild:blue_dark_prismarine_slab
+- nookbuild:purple_dark_prismarine_slab
+- nookbuild:magenta_dark_prismarine_slab
+- nookbuild:pink_dark_prismarine_slab
+
+#nookbuild:terracotta_bricks/stairs
+- nookbuild:terracotta_brick_stairs
+- nookbuild:white_terracotta_brick_stairs
+- nookbuild:light_gray_terracotta_brick_stairs
+- nookbuild:gray_terracotta_brick_stairs
+- nookbuild:black_terracotta_brick_stairs
+- nookbuild:brown_terracotta_brick_stairs
+- nookbuild:red_terracotta_brick_stairs
+- nookbuild:orange_terracotta_brick_stairs
+- nookbuild:yellow_terracotta_brick_stairs
+- nookbuild:yellow_terracotta_brick_stairs
+- nookbuild:lime_terracotta_brick_stairs
+- nookbuild:green_terracotta_brick_stairs
+- nookbuild:cyan_terracotta_brick_stairs
+- nookbuild:light_blue_terracotta_brick_stairs
+- nookbuild:blue_terracotta_brick_stairs
+- nookbuild:purple_terracotta_brick_stairs
+- nookbuild:magenta_terracotta_brick_stairs
+- nookbuild:pink_terracotta_brick_stairs
+
+#minecraft:signs
+- #minecraft:standing_signs
+- #minecraft:wall_signs
+
+#c:black_sand
+- terrestria:basalt_sand
+
+#betterend:mossy_glowshroom_logs
+- betterend:mossy_glowshroom_stripped_log
+- betterend:mossy_glowshroom_log
+- betterend:mossy_glowshroom_bark
+- betterend:mossy_glowshroom_stripped_bark
+
+#c:refined_iron_blocks
+- techreborn:refined_iron_storage_block
+
+#minecraft:wither_summon_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#c:titanium_blocks
+- techreborn:titanium_storage_block
+
+#pistoncontrol:selectively_sticky/honey
+- minecraft:honey_block
+
+#nookbuild:terracotta/walls
+- nookbuild:terracotta_wall
+- nookbuild:white_terracotta_wall
+- nookbuild:light_gray_terracotta_wall
+- nookbuild:gray_terracotta_wall
+- nookbuild:black_terracotta_wall
+- nookbuild:brown_terracotta_wall
+- nookbuild:red_terracotta_wall
+- nookbuild:orange_terracotta_wall
+- nookbuild:yellow_terracotta_wall
+- nookbuild:yellow_terracotta_wall
+- nookbuild:lime_terracotta_wall
+- nookbuild:green_terracotta_wall
+- nookbuild:cyan_terracotta_wall
+- nookbuild:light_blue_terracotta_wall
+- nookbuild:blue_terracotta_wall
+- nookbuild:purple_terracotta_wall
+- nookbuild:magenta_terracotta_wall
+- nookbuild:pink_terracotta_wall
+
+#minecraft:hoglin_repellents
+- minecraft:warped_fungus
+- minecraft:potted_warped_fungus
+- minecraft:nether_portal
+- minecraft:respawn_anchor
+
+#c:glass
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#minecraft:fire
+- minecraft:fire
+- minecraft:soul_fire
+
+#pistoncontrol:selectively_sticky/slime
+- minecraft:slime_block
+
+#repurposed_structures:forest_well_ores
+- minecraft:iron_ore
+
+#minecraft:base_stone_nether
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:blackstone
+
+#minecraft:wall_signs
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- terrestria:redwood_wall_sign
+- terrestria:hemlock_wall_sign
+- terrestria:rubber_wall_sign
+- terrestria:cypress_wall_sign
+- terrestria:japanese_maple_wall_sign
+- terrestria:rainbow_eucalyptus_wall_sign
+- terrestria:sakura_wall_sign
+- terrestria:willow_wall_sign
+- terrestria:yucca_palm_wall_sign
+- traverse:fir_sign
+- cinderscapes:scorched_wall_sign
+- cinderscapes:umbral_wall_sign
+
+#c:bauxite_ores
+- techreborn:bauxite_ore
+
+#c:marble
+- blockus:marble
+- blockus:marble_bricks
+- blockus:marble_pillar
+- blockus:chiseled_marble_pillar
+- blockus:chiseled_marble
+- blockus:marble_circle_pavement
+
+#blockus:warped_nether_grass
+- minecraft:nether_sprouts
+- minecraft:warped_roots
+
+#c:chrome_blocks
+- techreborn:chrome_storage_block
+
+#cinderscapes:scorched_stems
+- cinderscapes:stripped_scorched_stem
+- cinderscapes:scorched_stem
+- cinderscapes:stripped_scorched_hyphae
+- cinderscapes:scorched_hyphae
+
+#c:copper_ores
+- techreborn:copper_ore
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- blockus:paper_trapdoor
+- blockus:obsidian_reinforced_trapdoor
+- blockus:stone_trapdoor
+- blockus:blackstone_trapdoor
+- betterend:lacugrove_trapdoor
+- betterend:dragon_tree_trapdoor
+- betterend:tenanea_trapdoor
+- betterend:end_lotus_trapdoor
+- betterend:helix_tree_trapdoor
+- betterend:jellyshroom_trapdoor
+- betterend:umbrella_tree_trapdoor
+- betterend:pythadendron_trapdoor
+- betterend:mossy_glowshroom_trapdoor
+
+#cinderscapes:ash_permeable
+- #minecraft:nylium
+- minecraft:netherrack
+- minecraft:soul_sand
+- minecraft:soul_soil
+- minecraft:blackstone
+- minecraft:basalt
+- minecraft:glowstone
+- cinderscapes:ash
+- cinderscapes:ash_block
+- minecraft:gravel
+- minecraft:bedrock
+- minecraft:lava
+
+#terrestria:small_oak_logs
+- terrestria:small_oak_log
+- terrestria:stripped_small_oak_log
+
+#terraform:podzol
+- terrestria:basalt_podzol
+
+#betterend:helix_tree_logs
+- betterend:helix_tree_stripped_log
+- betterend:helix_tree_log
+- betterend:helix_tree_stripped_bark
+- betterend:helix_tree_bark
+
+#adorn:stone_steps
+- adorn:stone_step
+- adorn:cobblestone_step
+- adorn:sandstone_step
+- adorn:andesite_step
+- adorn:granite_step
+- adorn:diorite_step
+- adorn:brick_step
+- adorn:stone_brick_step
+- adorn:red_sandstone_step
+- adorn:nether_brick_step
+- adorn:basalt_step
+- adorn:terrestria_basalt_step
+- adorn:terrestria_basalt_cobblestone_step
+
+#minecraft:soul_speed_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+- #blockus:soul_sandstone
+
+#betterend:dragon_tree_logs
+- betterend:dragon_tree_log
+- betterend:dragon_tree_bark
+- betterend:dragon_tree_stripped_log
+- betterend:dragon_tree_stripped_bark
+
+#repurposed_structures:snow_well_ores
+- minecraft:lapis_ore
+
+#c:lead_ores
+- techreborn:lead_ore
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- techreborn:rubber_leaves
+- wild_explorer:autumn_oak_leaves
+- wild_explorer:autumn_birch_leaves
+- wild_explorer:pink_cherry_oak_leaves
+- wild_explorer:white_cherry_oak_leaves
+- wild_explorer:palm_leaves
+- blockus:white_oak_leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- terrestria:redwood_leaves
+- terrestria:hemlock_leaves
+- terrestria:rubber_leaves
+- terrestria:cypress_leaves
+- terrestria:japanese_maple_leaves
+- terrestria:japanese_maple_shrub_leaves
+- terrestria:dark_japanese_maple_leaves
+- terrestria:rainbow_eucalyptus_leaves
+- terrestria:sakura_leaves
+- terrestria:willow_leaves
+- terrestria:jungle_palm_leaves
+- terrestria:yucca_palm_leaves
+- traverse:brown_autumnal_leaves
+- traverse:red_autumnal_leaves
+- traverse:yellow_autumnal_leaves
+- traverse:orange_autumnal_leaves
+- traverse:fir_leaves
+- betterend:tenanea_leaves
+- betterend:pythadendron_leaves
+- betterend:lacugrove_leaves
+- betterend:dragon_tree_leaves
+- betterend:cave_bush
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- #nookbuild:bricks/walls
+- #nookbuild:brick_tiles/walls
+- #nookbuild:concrete/walls
+- #nookbuild:dark_prismarine/walls
+- #nookbuild:terracotta/walls
+- nookbuild:cobblestone_brick_wall
+- nookbuild:mossy_cobblestone_brick_wall
+- nookbuild:granite_brick_wall
+- nookbuild:diorite_brick_wall
+- nookbuild:andesite_brick_wall
+- nookbuild:sandstone_brick_wall
+- nookbuild:red_sandstone_brick_wall
+- nookbuild:chiseled_prismarine_wall
+- techreborn:aluminum_storage_block_wall
+- techreborn:brass_storage_block_wall
+- techreborn:bronze_storage_block_wall
+- techreborn:chrome_storage_block_wall
+- techreborn:copper_storage_block_wall
+- techreborn:electrum_storage_block_wall
+- techreborn:invar_storage_block_wall
+- techreborn:iridium_storage_block_wall
+- techreborn:iridium_reinforced_stone_storage_block_wall
+- techreborn:iridium_reinforced_tungstensteel_storage_block_wall
+- techreborn:lead_storage_block_wall
+- techreborn:nickel_storage_block_wall
+- techreborn:peridot_storage_block_wall
+- techreborn:platinum_storage_block_wall
+- techreborn:red_garnet_storage_block_wall
+- techreborn:refined_iron_storage_block_wall
+- techreborn:ruby_storage_block_wall
+- techreborn:sapphire_storage_block_wall
+- techreborn:silver_storage_block_wall
+- techreborn:steel_storage_block_wall
+- techreborn:tin_storage_block_wall
+- techreborn:titanium_storage_block_wall
+- techreborn:tungsten_storage_block_wall
+- techreborn:tungstensteel_storage_block_wall
+- techreborn:yellow_garnet_storage_block_wall
+- techreborn:zinc_storage_block_wall
+- wild_explorer:blunite_wall
+- wild_explorer:carbonite_wall
+- blockus:blaze_bricks_wall
+- blockus:lava_bricks_wall
+- blockus:soul_sandstone_wall
+- blockus:caution_barrier
+- blockus:road_barrier
+- blockus:charred_nether_bricks_wall
+- blockus:soaked_bricks_wall
+- blockus:magma_bricks_wall
+- blockus:limestone_bricks_wall
+- blockus:obsidian_bricks_wall
+- blockus:rainbow_bricks_wall
+- blockus:water_bricks_wall
+- blockus:marble_bricks_wall
+- blockus:small_hedge
+- blockus:spruce_small_hedge
+- blockus:birch_small_hedge
+- blockus:jungle_small_hedge
+- blockus:acacia_small_hedge
+- blockus:dark_oak_small_hedge
+- blockus:white_oak_small_hedge
+- blockus:honeycomb_bricks_wall
+- blockus:sandy_bricks_wall
+- blockus:charred_bricks_wall
+- blockus:teal_nether_brick_wall
+- blockus:lava_polished_blackstone_wall
+- blockus:crimson_warty_blackstone_bricks_wall
+- blockus:warped_warty_blackstone_bricks_wall
+- blockus:snow_bricks_wall
+- blockus:ice_bricks_wall
+- blockus:polished_basalt_bricks_wall
+- blockus:bluestone_bricks_wall
+- blockus:purpur_bricks_wall
+- blockus:phantom_purpur_bricks_wall
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- terrestria:basalt_wall
+- terrestria:smooth_basalt_wall
+- terrestria:basalt_cobblestone_wall
+- terrestria:mossy_basalt_cobblestone_wall
+- terrestria:basalt_brick_wall
+- terrestria:mossy_basalt_brick_wall
+- allure:cobblestone_bricks_wall
+- allure:mossy_cobblestone_bricks_wall
+- betterend:sulphuric_rock_bricks_wall
+- betterend:flavolite_bricks_wall
+- betterend:violecite_bricks_wall
+- betterend:flavolite_wall
+- betterend:sulphuric_rock_wall
+- betterend:violecite_wall
+
+#terraform:farmland
+- terrestria:andisol_farmland
+
+#nookbuild:concrete/pressure_plates
+- nookbuild:white_concrete_pressure_plate
+- nookbuild:light_gray_concrete_pressure_plate
+- nookbuild:gray_concrete_pressure_plate
+- nookbuild:black_concrete_pressure_plate
+- nookbuild:brown_concrete_pressure_plate
+- nookbuild:red_concrete_pressure_plate
+- nookbuild:orange_concrete_pressure_plate
+- nookbuild:yellow_concrete_pressure_plate
+- nookbuild:yellow_concrete_pressure_plate
+- nookbuild:lime_concrete_pressure_plate
+- nookbuild:green_concrete_pressure_plate
+- nookbuild:cyan_concrete_pressure_plate
+- nookbuild:light_blue_concrete_pressure_plate
+- nookbuild:blue_concrete_pressure_plate
+- nookbuild:purple_concrete_pressure_plate
+- nookbuild:magenta_concrete_pressure_plate
+- nookbuild:pink_concrete_pressure_plate
+
+#nookbuild:bricks/stairs
+- minecraft:brick_stairs
+- nookbuild:white_brick_stairs
+- nookbuild:light_gray_brick_stairs
+- nookbuild:gray_brick_stairs
+- nookbuild:black_brick_stairs
+- nookbuild:brown_brick_stairs
+- nookbuild:red_brick_stairs
+- nookbuild:orange_brick_stairs
+- nookbuild:yellow_brick_stairs
+- nookbuild:lime_brick_stairs
+- nookbuild:green_brick_stairs
+- nookbuild:cyan_brick_stairs
+- nookbuild:light_blue_brick_stairs
+- nookbuild:blue_brick_stairs
+- nookbuild:purple_brick_stairs
+- nookbuild:magenta_brick_stairs
+- nookbuild:pink_brick_stairs
+
+#minecraft:coral_blocks
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+
+#terrestria:redwood_logs
+- terrestria:redwood_log
+- terrestria:redwood_wood
+- terrestria:redwood_quarter_log
+- terrestria:stripped_redwood_log
+- terrestria:stripped_redwood_wood
+- terrestria:stripped_redwood_quarter_log
+
+#repurposed_structures:jungle_fortress_staircase_plants
+- minecraft:red_mushroom
+- minecraft:brown_mushroom
+
+#minecraft:wither_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+
+#repurposed_structures:nether_well_ores
+- minecraft:chiseled_quartz_block
+- minecraft:nether_quartz_ore
+- minecraft:nether_gold_ore
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- blockus:acacia_small_logs
+
+#nookbuild:terracotta_bricks/walls
+- nookbuild:terracotta_brick_wall
+- nookbuild:white_terracotta_brick_wall
+- nookbuild:light_gray_terracotta_brick_wall
+- nookbuild:gray_terracotta_brick_wall
+- nookbuild:black_terracotta_brick_wall
+- nookbuild:brown_terracotta_brick_wall
+- nookbuild:red_terracotta_brick_wall
+- nookbuild:orange_terracotta_brick_wall
+- nookbuild:yellow_terracotta_brick_wall
+- nookbuild:yellow_terracotta_brick_wall
+- nookbuild:lime_terracotta_brick_wall
+- nookbuild:green_terracotta_brick_wall
+- nookbuild:cyan_terracotta_brick_wall
+- nookbuild:light_blue_terracotta_brick_wall
+- nookbuild:blue_terracotta_brick_wall
+- nookbuild:purple_terracotta_brick_wall
+- nookbuild:magenta_terracotta_brick_wall
+- nookbuild:pink_terracotta_brick_wall
+
+#nookbuild:brick_tiles/walls
+- nookbuild:brick_tile_wall
+- nookbuild:white_brick_tile_wall
+- nookbuild:light_gray_brick_tile_wall
+- nookbuild:gray_brick_tile_wall
+- nookbuild:black_brick_tile_wall
+- nookbuild:brown_brick_tile_wall
+- nookbuild:red_brick_tile_wall
+- nookbuild:orange_brick_tile_wall
+- nookbuild:yellow_brick_tile_wall
+- nookbuild:lime_brick_tile_wall
+- nookbuild:green_brick_tile_wall
+- nookbuild:cyan_brick_tile_wall
+- nookbuild:light_blue_brick_tile_wall
+- nookbuild:blue_brick_tile_wall
+- nookbuild:purple_brick_tile_wall
+- nookbuild:magenta_brick_tile_wall
+- nookbuild:pink_brick_tile_wall
+
+#minecraft:underwater_bonemeals
+- minecraft:seagrass
+- #minecraft:corals
+- #minecraft:wall_corals
+
+#minecraft:impermeable
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:sand
+- minecraft:red_sand
+- terrestria:basalt_sand
+
+#c:platinum_blocks
+- techreborn:platinum_storage_block
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #techreborn:rubber_logs
+- #wild_explorer:cherry_oak_logs
+- #wild_explorer:palm_logs
+- #blockus:white_oak_logs
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #terrestria:cypress_logs
+- #terrestria:hemlock_logs
+- #terrestria:japanese_maple_logs
+- #terrestria:rainbow_eucalyptus_logs
+- #terrestria:redwood_logs
+- #terrestria:rubber_logs
+- #terrestria:sakura_logs
+- #terrestria:small_oak_logs
+- #terrestria:willow_logs
+- #terrestria:yucca_palm_logs
+- #traverse:fir_logs
+- betterend:pythadendron_bark
+- betterend:lacugrove_bark
+- betterend:helix_tree_stripped_log
+- betterend:umbrella_tree_stripped_bark
+- betterend:mossy_glowshroom_stripped_log
+- betterend:umbrella_tree_stripped_log
+- betterend:pythadendron_stripped_log
+- betterend:end_lotus_bark
+- betterend:tenanea_log
+- betterend:jellyshroom_bark
+- betterend:pythadendron_stripped_bark
+- betterend:jellyshroom_stripped_log
+- betterend:dragon_tree_stripped_log
+- betterend:tenanea_stripped_bark
+- betterend:helix_tree_bark
+- betterend:mossy_glowshroom_stripped_bark
+- betterend:dragon_tree_stripped_bark
+- betterend:lacugrove_log
+- betterend:mossy_glowshroom_bark
+- betterend:pythadendron_log
+- betterend:end_lotus_log
+- betterend:mossy_glowshroom_log
+- betterend:dragon_tree_log
+- betterend:tenanea_bark
+- betterend:umbrella_tree_bark
+- betterend:jellyshroom_log
+- betterend:end_lotus_stripped_log
+- betterend:dragon_tree_bark
+- betterend:tenanea_stripped_log
+- betterend:lacugrove_stripped_log
+- betterend:end_lotus_stripped_bark
+- betterend:lacugrove_stripped_bark
+- betterend:helix_tree_log
+- betterend:umbrella_tree_log
+- betterend:jellyshroom_stripped_bark
+- betterend:helix_tree_stripped_bark
+
+#blockus:stained_stone_bricks
+- blockus:white_stone_bricks
+- blockus:orange_stone_bricks
+- blockus:magenta_stone_bricks
+- blockus:light_blue_stone_bricks
+- blockus:yellow_stone_bricks
+- blockus:lime_stone_bricks
+- blockus:pink_stone_bricks
+- blockus:gray_stone_bricks
+- minecraft:stone_bricks
+- blockus:cyan_stone_bricks
+- blockus:purple_stone_bricks
+- blockus:blue_stone_bricks
+- blockus:brown_stone_bricks
+- blockus:green_stone_bricks
+- blockus:red_stone_bricks
+- blockus:black_stone_bricks
+
+#betterend:pedestal
+- betterend:purpur_pedestal
+- betterend:andesite_pedestal
+- betterend:quartz_pedestal
+- betterend:eternal_pedestal
+- betterend:violecite_pedestal
+- betterend:diorite_pedestal
+- betterend:granite_pedestal
+- betterend:sulphuric_rock_pedestal
+- betterend:flavolite_pedestal
+- betterend:infusion_pedestal
+
+#c:planks_that_burn
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- blockus:bamboo_planks
+- blockus:white_oak_planks
+
+#c:sheldonite_ores
+- techreborn:sheldonite_ore
+
+#minecraft:campfires
+- minecraft:campfire
+- minecraft:soul_campfire
+
+#minecraft:infiniburn_nether
+- #minecraft:infiniburn_overworld
+
+#c:tin_blocks
+- techreborn:tin_storage_block
+
+#nookbuild:bricks/walls
+- minecraft:brick_wall
+- nookbuild:white_brick_wall
+- nookbuild:light_gray_brick_wall
+- nookbuild:gray_brick_wall
+- nookbuild:black_brick_wall
+- nookbuild:brown_brick_wall
+- nookbuild:red_brick_wall
+- nookbuild:orange_brick_wall
+- nookbuild:yellow_brick_wall
+- nookbuild:lime_brick_wall
+- nookbuild:green_brick_wall
+- nookbuild:cyan_brick_wall
+- nookbuild:light_blue_brick_wall
+- nookbuild:blue_brick_wall
+- nookbuild:purple_brick_wall
+- nookbuild:magenta_brick_wall
+- nookbuild:pink_brick_wall
+
+#nookbuild:bricks/blocks
+- minecraft:bricks
+- nookbuild:white_bricks
+- nookbuild:light_gray_bricks
+- nookbuild:gray_bricks
+- nookbuild:black_bricks
+- nookbuild:brown_bricks
+- nookbuild:red_bricks
+- nookbuild:orange_bricks
+- nookbuild:yellow_bricks
+- nookbuild:lime_bricks
+- nookbuild:green_bricks
+- nookbuild:cyan_bricks
+- nookbuild:light_blue_bricks
+- nookbuild:blue_bricks
+- nookbuild:purple_bricks
+- nookbuild:magenta_bricks
+- nookbuild:pink_bricks
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- nookbuild:oak_wood_slab
+- nookbuild:spruce_wood_slab
+- nookbuild:birch_wood_slab
+- nookbuild:jungle_wood_slab
+- nookbuild:acacia_wood_slab
+- nookbuild:dark_oak_wood_slab
+- nookbuild:crimson_hyphae_slab
+- nookbuild:warped_hyphae_slab
+- techreborn:rubber_plank_slab
+- wild_explorer:cherry_oak_slab
+- wild_explorer:cherry_oak_wood_slab
+- wild_explorer:palm_slab
+- wild_explorer:palm_wood_slab
+- wild_explorer:dark_amaranth_slab
+- wild_explorer:dark_amaranth_hyphae_slab
+- blockus:bamboo_slab
+- blockus:charred_slab
+- blockus:white_oak_slab
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- terrestria:redwood_slab
+- terrestria:hemlock_slab
+- terrestria:rubber_slab
+- terrestria:cypress_slab
+- terrestria:japanese_maple_slab
+- terrestria:rainbow_eucalyptus_slab
+- terrestria:sakura_slab
+- terrestria:willow_slab
+- terrestria:yucca_palm_slab
+- traverse:fir_slab
+- cinderscapes:scorched_slab
+- cinderscapes:umbral_slab
+- betterend:jellyshroom_slab
+- betterend:tenanea_slab
+- betterend:helix_tree_slab
+- betterend:pythadendron_slab
+- betterend:mossy_glowshroom_slab
+- betterend:umbrella_tree_slab
+- betterend:dragon_tree_slab
+- betterend:lacugrove_slab
+- betterend:end_lotus_slab
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- terrestria:indian_paintbrush
+- terrestria:monsteras
+
+#c:yellow_garnet_blocks
+- techreborn:yellow_garnet_storage_block
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- techreborn:rubber_trapdoor
+- wild_explorer:cherry_oak_trapdoor
+- wild_explorer:palm_trapdoor
+- wild_explorer:dark_amaranth_trapdoor
+- blockus:bamboo_trapdoor
+- blockus:charred_trapdoor
+- blockus:white_oak_trapdoor
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- terrestria:redwood_trapdoor
+- terrestria:hemlock_trapdoor
+- terrestria:rubber_trapdoor
+- terrestria:cypress_trapdoor
+- terrestria:japanese_maple_trapdoor
+- terrestria:rainbow_eucalyptus_trapdoor
+- terrestria:sakura_trapdoor
+- terrestria:willow_trapdoor
+- terrestria:yucca_palm_trapdoor
+- traverse:fir_trapdoor
+- cinderscapes:scorched_trapdoor
+- cinderscapes:umbral_trapdoor
+- betterend:lacugrove_trapdoor
+- betterend:dragon_tree_trapdoor
+- betterend:tenanea_trapdoor
+- betterend:end_lotus_trapdoor
+- betterend:helix_tree_trapdoor
+- betterend:jellyshroom_trapdoor
+- betterend:umbrella_tree_trapdoor
+- betterend:pythadendron_trapdoor
+- betterend:mossy_glowshroom_trapdoor
+
+#terrestria:willow_logs
+- terrestria:willow_log
+- terrestria:willow_wood
+- terrestria:stripped_willow_log
+- terrestria:stripped_willow_wood
+
+#towelette:displaceable
+- adorn:stone_torch
+
+#nookbuild:concrete/walls
+- nookbuild:white_concrete_wall
+- nookbuild:light_gray_concrete_wall
+- nookbuild:gray_concrete_wall
+- nookbuild:black_concrete_wall
+- nookbuild:brown_concrete_wall
+- nookbuild:red_concrete_wall
+- nookbuild:orange_concrete_wall
+- nookbuild:yellow_concrete_wall
+- nookbuild:yellow_concrete_wall
+- nookbuild:lime_concrete_wall
+- nookbuild:green_concrete_wall
+- nookbuild:cyan_concrete_wall
+- nookbuild:light_blue_concrete_wall
+- nookbuild:blue_concrete_wall
+- nookbuild:purple_concrete_wall
+- nookbuild:magenta_concrete_wall
+- nookbuild:pink_concrete_wall
+
+#adorn:wooden_steps
+- adorn:oak_step
+- adorn:spruce_step
+- adorn:birch_step
+- adorn:jungle_step
+- adorn:acacia_step
+- adorn:dark_oak_step
+- adorn:crimson_step
+- adorn:warped_step
+- adorn:traverse_fir_step
+- adorn:terrestria_cypress_step
+- adorn:terrestria_hemlock_step
+- adorn:terrestria_japanese_maple_step
+- adorn:terrestria_rainbow_eucalyptus_step
+- adorn:terrestria_redwood_step
+- adorn:terrestria_rubber_step
+- adorn:terrestria_sakura_step
+- adorn:terrestria_willow_step
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- #nookbuild:bricks/stairs
+- #nookbuild:brick_tiles/stairs
+- #nookbuild:concrete/stairs
+- #nookbuild:dark_prismarine/stairs
+- #nookbuild:terracotta/stairs
+- nookbuild:cobblestone_brick_stairs
+- nookbuild:mossy_cobblestone_brick_stairs
+- nookbuild:granite_brick_stairs
+- nookbuild:diorite_brick_stairs
+- nookbuild:andesite_brick_stairs
+- nookbuild:sandstone_brick_stairs
+- nookbuild:polished_sandstone_stairs
+- nookbuild:red_sandstone_brick_stairs
+- nookbuild:polished_red_sandstone_stairs
+- nookbuild:smooth_stone_paving_stairs
+- nookbuild:chiseled_prismarine_stairs
+- nookbuild:prismarine_brick_paving_stairs
+- techreborn:rubber_plank_stair
+- techreborn:aluminum_storage_block_stairs
+- techreborn:brass_storage_block_stairs
+- techreborn:bronze_storage_block_stairs
+- techreborn:chrome_storage_block_stairs
+- techreborn:copper_storage_block_stairs
+- techreborn:electrum_storage_block_stairs
+- techreborn:invar_storage_block_stairs
+- techreborn:iridium_storage_block_stairs
+- techreborn:iridium_reinforced_stone_storage_block_stairs
+- techreborn:iridium_reinforced_tungstensteel_storage_block_stairs
+- techreborn:lead_storage_block_stairs
+- techreborn:nickel_storage_block_stairs
+- techreborn:peridot_storage_block_stairs
+- techreborn:platinum_storage_block_stairs
+- techreborn:red_garnet_storage_block_stairs
+- techreborn:refined_iron_storage_block_stairs
+- techreborn:ruby_storage_block_stairs
+- techreborn:sapphire_storage_block_stairs
+- techreborn:silver_storage_block_stairs
+- techreborn:steel_storage_block_stairs
+- techreborn:tin_storage_block_stairs
+- techreborn:titanium_storage_block_stairs
+- techreborn:tungsten_storage_block_stairs
+- techreborn:tungstensteel_storage_block_stairs
+- techreborn:yellow_garnet_storage_block_stairs
+- techreborn:zinc_storage_block_stairs
+- wild_explorer:blunite_stairs
+- wild_explorer:polished_blunite_stairs
+- wild_explorer:carbonite_stairs
+- wild_explorer:polished_carbonite_stairs
+- minecraft:oak_stairs
+- minecraft:cobblestone_stairs
+- minecraft:spruce_stairs
+- minecraft:sandstone_stairs
+- minecraft:acacia_stairs
+- minecraft:jungle_stairs
+- minecraft:birch_stairs
+- minecraft:dark_oak_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- terrestria:redwood_stairs
+- terrestria:hemlock_stairs
+- terrestria:rubber_stairs
+- terrestria:cypress_stairs
+- terrestria:japanese_maple_stairs
+- terrestria:rainbow_eucalyptus_stairs
+- terrestria:sakura_stairs
+- terrestria:willow_stairs
+- terrestria:yucca_palm_stairs
+- terrestria:basalt_stairs
+- terrestria:smooth_basalt_stairs
+- terrestria:basalt_cobblestone_stairs
+- terrestria:mossy_basalt_cobblestone_stairs
+- terrestria:basalt_brick_stairs
+- terrestria:mossy_basalt_brick_stairs
+- allure:cobblestone_bricks_stairs
+- allure:mossy_cobblestone_bricks_stairs
+- cinderscapes:sulfur_quartz_stairs
+- cinderscapes:smooth_sulfur_quartz_stairs
+- cinderscapes:rose_quartz_stairs
+- cinderscapes:smooth_rose_quartz_stairs
+- cinderscapes:smoky_quartz_stairs
+- cinderscapes:smooth_smoky_quartz_stairs
+- betterend:helix_tree_stairs
+- betterend:jellyshroom_stairs
+- betterend:umbrella_tree_stairs
+- betterend:lacugrove_stairs
+- betterend:dragon_tree_stairs
+- betterend:pythadendron_stairs
+- betterend:tenanea_stairs
+- betterend:mossy_glowshroom_stairs
+- betterend:end_lotus_stairs
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #wild_explorer:dark_amaranth_stems
+- #blockus:white_oak_logs
+- cinderscapes:umbral_stem
+- cinderscapes:stripped_umbral_stem
+- cinderscapes:umbral_hyphae
+- cinderscapes:stripped_umbral_hyphae
+- cinderscapes:scorched_stem
+- cinderscapes:stripped_scorched_stem
+- cinderscapes:scorched_hyphae
+- cinderscapes:stripped_scorched_hyphae
+- betterend:pythadendron_bark
+- betterend:lacugrove_bark
+- betterend:helix_tree_stripped_log
+- betterend:umbrella_tree_stripped_bark
+- betterend:mossy_glowshroom_stripped_log
+- betterend:umbrella_tree_stripped_log
+- betterend:pythadendron_stripped_log
+- betterend:end_lotus_bark
+- betterend:tenanea_log
+- betterend:jellyshroom_bark
+- betterend:pythadendron_stripped_bark
+- betterend:jellyshroom_stripped_log
+- betterend:dragon_tree_stripped_log
+- betterend:tenanea_stripped_bark
+- betterend:helix_tree_bark
+- betterend:mossy_glowshroom_stripped_bark
+- betterend:dragon_tree_stripped_bark
+- betterend:lacugrove_log
+- betterend:mossy_glowshroom_bark
+- betterend:pythadendron_log
+- betterend:end_lotus_log
+- betterend:mossy_glowshroom_log
+- betterend:dragon_tree_log
+- betterend:tenanea_bark
+- betterend:umbrella_tree_bark
+- betterend:jellyshroom_log
+- betterend:end_lotus_stripped_log
+- betterend:dragon_tree_bark
+- betterend:tenanea_stripped_log
+- betterend:lacugrove_stripped_log
+- betterend:end_lotus_stripped_bark
+- betterend:lacugrove_stripped_bark
+- betterend:helix_tree_log
+- betterend:umbrella_tree_log
+- betterend:jellyshroom_stripped_bark
+- betterend:helix_tree_stripped_bark
+
+#extraalchemy:heat_source
+- minecraft:fire
+- minecraft:soul_fire
+- minecraft:lava
+- minecraft:magma_block
+- minecraft:campfire
+- minecraft:soul_campfire
+
+#wild_explorer:mushrooms
+- wild_explorer:white_mushroom
+- wild_explorer:light_gray_mushroom
+- wild_explorer:gray_mushroom
+- wild_explorer:black_mushroom
+- wild_explorer:orange_mushroom
+- wild_explorer:yellow_mushroom
+- wild_explorer:yellow_mushroom
+- wild_explorer:lime_mushroom
+- wild_explorer:green_mushroom
+- wild_explorer:cyan_mushroom
+- wild_explorer:light_blue_mushroom
+- wild_explorer:blue_mushroom
+- wild_explorer:purple_mushroom
+- wild_explorer:magenta_mushroom
+- wild_explorer:pink_mushroom
+
+#pistoncontrol:piston_behavior_block
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:respawn_anchor
+- minecraft:bedrock
+
+#c:aluminum_blocks
+- techreborn:aluminum_storage_block
+
+#minecraft:valid_spawn
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:grass_block
+- minecraft:podzol
+- terrestria:basalt_grass_block
+- terrestria:basalt_podzol
+
+#minecraft:mushroom_grow_block
+- minecraft:mycelium
+- minecraft:podzol
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+- minecraft:mycelium
+- minecraft:podzol
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+- terrestria:basalt_podzol
+
+#nookbuild:concrete/buttons
+- nookbuild:white_concrete_button
+- nookbuild:light_gray_concrete_button
+- nookbuild:gray_concrete_button
+- nookbuild:black_concrete_button
+- nookbuild:brown_concrete_button
+- nookbuild:red_concrete_button
+- nookbuild:orange_concrete_button
+- nookbuild:yellow_concrete_button
+- nookbuild:yellow_concrete_button
+- nookbuild:lime_concrete_button
+- nookbuild:green_concrete_button
+- nookbuild:cyan_concrete_button
+- nookbuild:light_blue_concrete_button
+- nookbuild:blue_concrete_button
+- nookbuild:purple_concrete_button
+- nookbuild:magenta_concrete_button
+- nookbuild:pink_concrete_button
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- techreborn:rubber_door
+- wild_explorer:cherry_oak_door
+- wild_explorer:palm_door
+- wild_explorer:dark_amaranth_door
+- blockus:bamboo_door
+- blockus:charred_door
+- blockus:white_oak_door
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- terrestria:redwood_door
+- terrestria:hemlock_door
+- terrestria:rubber_door
+- terrestria:cypress_door
+- terrestria:japanese_maple_door
+- terrestria:rainbow_eucalyptus_door
+- terrestria:sakura_door
+- terrestria:willow_door
+- terrestria:yucca_palm_door
+- glassdoor:oak_glassdoor
+- glassdoor:spruce_glassdoor
+- glassdoor:birch_glassdoor
+- glassdoor:jungle_glassdoor
+- glassdoor:acacia_glassdoor
+- glassdoor:dark_oak_glassdoor
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- traverse:fir_door
+- cinderscapes:scorched_door
+- cinderscapes:umbral_door
+- betterend:pythadendron_door
+- betterend:mossy_glowshroom_door
+- betterend:lacugrove_door
+- betterend:helix_tree_door
+- betterend:tenanea_door
+- betterend:jellyshroom_door
+- betterend:dragon_tree_door
+- betterend:end_lotus_door
+- betterend:umbrella_tree_door
+
+#c:wooden_barrels
+- #blockus:barrels
+
+#minecraft:standing_signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- terrestria:redwood_sign
+- terrestria:hemlock_sign
+- terrestria:rubber_sign
+- terrestria:cypress_sign
+- terrestria:japanese_maple_sign
+- terrestria:rainbow_eucalyptus_sign
+- terrestria:sakura_sign
+- terrestria:willow_sign
+- terrestria:yucca_palm_sign
+- traverse:fir_sign
+- cinderscapes:scorched_sign
+- cinderscapes:umbral_sign
+
+#minecraft:infiniburn_end
+- #minecraft:infiniburn_overworld
+- minecraft:bedrock
+
+#blockus:soul_soils
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- blockus:crimson_small_stems
+
+#nookbuild:terracotta_bricks/blocks
+- nookbuild:terracotta_bricks
+- nookbuild:white_terracotta_bricks
+- nookbuild:light_gray_terracotta_bricks
+- nookbuild:gray_terracotta_bricks
+- nookbuild:black_terracotta_bricks
+- nookbuild:brown_terracotta_bricks
+- nookbuild:red_terracotta_bricks
+- nookbuild:orange_terracotta_bricks
+- nookbuild:yellow_terracotta_bricks
+- nookbuild:yellow_terracotta_bricks
+- nookbuild:lime_terracotta_bricks
+- nookbuild:green_terracotta_bricks
+- nookbuild:cyan_terracotta_bricks
+- nookbuild:light_blue_terracotta_bricks
+- nookbuild:blue_terracotta_bricks
+- nookbuild:purple_terracotta_bricks
+- nookbuild:magenta_terracotta_bricks
+- nookbuild:pink_terracotta_bricks
+
+#betterend:jellyshroom_logs
+- betterend:jellyshroom_log
+- betterend:jellyshroom_bark
+- betterend:jellyshroom_stripped_bark
+- betterend:jellyshroom_stripped_log
+
+#c:tungsten_ores
+- techreborn:tungsten_ore
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+- wild_explorer:dark_amaranth_wart_block
+- cinderscapes:umbral_wart_block
+
+#nookbuild:terracotta/buttons
+- nookbuild:terracotta_button
+- nookbuild:white_terracotta_button
+- nookbuild:light_gray_terracotta_button
+- nookbuild:gray_terracotta_button
+- nookbuild:black_terracotta_button
+- nookbuild:brown_terracotta_button
+- nookbuild:red_terracotta_button
+- nookbuild:orange_terracotta_button
+- nookbuild:yellow_terracotta_button
+- nookbuild:yellow_terracotta_button
+- nookbuild:lime_terracotta_button
+- nookbuild:green_terracotta_button
+- nookbuild:cyan_terracotta_button
+- nookbuild:light_blue_terracotta_button
+- nookbuild:blue_terracotta_button
+- nookbuild:purple_terracotta_button
+- nookbuild:magenta_terracotta_button
+- nookbuild:pink_terracotta_button
+
+#adorn:wooden_shelves
+- adorn:oak_shelf
+- adorn:spruce_shelf
+- adorn:birch_shelf
+- adorn:jungle_shelf
+- adorn:acacia_shelf
+- adorn:dark_oak_shelf
+- adorn:crimson_shelf
+- adorn:warped_shelf
+- adorn:traverse_fir_shelf
+- adorn:terrestria_cypress_shelf
+- adorn:terrestria_hemlock_shelf
+- adorn:terrestria_japanese_maple_shelf
+- adorn:terrestria_rainbow_eucalyptus_shelf
+- adorn:terrestria_redwood_shelf
+- adorn:terrestria_rubber_shelf
+- adorn:terrestria_sakura_shelf
+- adorn:terrestria_willow_shelf
+
+#wild_explorer:dark_amaranth_stems
+- wild_explorer:dark_amaranth_stem
+- wild_explorer:stripped_dark_amaranth_stem
+- wild_explorer:dark_amaranth_hyphae
+- wild_explorer:stripped_dark_amaranth_hyphae
+
+#c:iridium_reinforced_stone_blocks
+- techreborn:iridium_reinforced_stone_storage_block
+
+#blockus:white_oak_logs
+- blockus:white_oak_log
+- blockus:white_oak_wood
+- blockus:stripped_white_oak_log
+- blockus:stripped_white_oak_wood
+- blockus:white_oak_small_logs
+
+#minecraft:beacon_base_blocks
+- minecraft:netherite_block
+- minecraft:emerald_block
+- minecraft:diamond_block
+- minecraft:gold_block
+- minecraft:iron_block
+- enderitemod:enderite_block
+- blockus:legacy_gold_block
+- blockus:legacy_explosion_proof_gold_block
+- blockus:legacy_iron_block
+- blockus:legacy_diamond_block
+- blockus:netherite_slab
+- blockus:netherite_stairs
+- allure:golden_apple_crate
+
+#repurposed_structures:mossy_well_ores
+- minecraft:emerald_ore
+
+#adorn:coffee_tables
+- adorn:oak_coffee_table
+- adorn:spruce_coffee_table
+- adorn:birch_coffee_table
+- adorn:jungle_coffee_table
+- adorn:acacia_coffee_table
+- adorn:dark_oak_coffee_table
+- adorn:crimson_coffee_table
+- adorn:warped_coffee_table
+- adorn:traverse_fir_coffee_table
+- adorn:terrestria_cypress_coffee_table
+- adorn:terrestria_hemlock_coffee_table
+- adorn:terrestria_japanese_maple_coffee_table
+- adorn:terrestria_rainbow_eucalyptus_coffee_table
+- adorn:terrestria_redwood_coffee_table
+- adorn:terrestria_rubber_coffee_table
+- adorn:terrestria_sakura_coffee_table
+- adorn:terrestria_willow_coffee_table
+
+#c:chest
+- betterend:pythadendron_chest
+- betterend:lacugrove_chest
+- betterend:umbrella_tree_chest
+- betterend:mossy_glowshroom_chest
+- betterend:dragon_tree_chest
+- betterend:helix_tree_chest
+- betterend:tenanea_chest
+- betterend:end_lotus_chest
+- betterend:jellyshroom_chest
+
+#nookbuild:terracotta/pressure_plates
+- nookbuild:terracotta_pressure_plate
+- nookbuild:white_terracotta_pressure_plate
+- nookbuild:light_gray_terracotta_pressure_plate
+- nookbuild:gray_terracotta_pressure_plate
+- nookbuild:black_terracotta_pressure_plate
+- nookbuild:brown_terracotta_pressure_plate
+- nookbuild:red_terracotta_pressure_plate
+- nookbuild:orange_terracotta_pressure_plate
+- nookbuild:yellow_terracotta_pressure_plate
+- nookbuild:yellow_terracotta_pressure_plate
+- nookbuild:lime_terracotta_pressure_plate
+- nookbuild:green_terracotta_pressure_plate
+- nookbuild:cyan_terracotta_pressure_plate
+- nookbuild:light_blue_terracotta_pressure_plate
+- nookbuild:blue_terracotta_pressure_plate
+- nookbuild:purple_terracotta_pressure_plate
+- nookbuild:magenta_terracotta_pressure_plate
+- nookbuild:pink_terracotta_pressure_plate
+
+#minecraft:shulker_boxes
+- minecraft:shulker_box
+- minecraft:black_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+
+#repurposed_structures:nether_stronghold_bookshelves
+- minecraft:polished_blackstone_bricks
+- minecraft:polished_blackstone_bricks
+- minecraft:polished_blackstone_bricks
+- minecraft:polished_blackstone_bricks
+- minecraft:polished_blackstone_bricks
+- minecraft:polished_blackstone_bricks
+- minecraft:polished_blackstone
+- minecraft:polished_blackstone
+- minecraft:polished_blackstone
+- minecraft:cracked_polished_blackstone_bricks
+- minecraft:cracked_polished_blackstone_bricks
+- minecraft:cracked_polished_blackstone_bricks
+- minecraft:cracked_polished_blackstone_bricks
+- minecraft:chiseled_polished_blackstone
+- minecraft:chiseled_polished_blackstone
+- minecraft:chiseled_polished_blackstone
+- minecraft:gilded_blackstone
+
+#c:iridium_blocks
+- techreborn:iridium_storage_block
+
+#terrestria:hemlock_logs
+- terrestria:hemlock_log
+- terrestria:hemlock_wood
+- terrestria:hemlock_quarter_log
+- terrestria:stripped_hemlock_log
+- terrestria:stripped_hemlock_wood
+- terrestria:stripped_hemlock_quarter_log
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+- betterend:thallasium_anvil
+- betterend:aeternium_anvil
+- betterend:terminite_anvil
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- blockus:birch_small_logs
+
+#nookbuild:terracotta_bricks/slabs
+- nookbuild:terracotta_brick_slab
+- nookbuild:white_terracotta_brick_slab
+- nookbuild:light_gray_terracotta_brick_slab
+- nookbuild:gray_terracotta_brick_slab
+- nookbuild:black_terracotta_brick_slab
+- nookbuild:brown_terracotta_brick_slab
+- nookbuild:red_terracotta_brick_slab
+- nookbuild:orange_terracotta_brick_slab
+- nookbuild:yellow_terracotta_brick_slab
+- nookbuild:yellow_terracotta_brick_slab
+- nookbuild:lime_terracotta_brick_slab
+- nookbuild:green_terracotta_brick_slab
+- nookbuild:cyan_terracotta_brick_slab
+- nookbuild:light_blue_terracotta_brick_slab
+- nookbuild:blue_terracotta_brick_slab
+- nookbuild:purple_terracotta_brick_slab
+- nookbuild:magenta_terracotta_brick_slab
+- nookbuild:pink_terracotta_brick_slab
+
+#c:sodalite_ores
+- techreborn:sodalite_ore
+
+#minecraft:wall_corals
+- minecraft:tube_coral_wall_fan
+- minecraft:brain_coral_wall_fan
+- minecraft:bubble_coral_wall_fan
+- minecraft:fire_coral_wall_fan
+- minecraft:horn_coral_wall_fan
+
+#nookbuild:terracotta/blocks
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:gray_terracotta
+- minecraft:black_terracotta
+- minecraft:brown_terracotta
+- minecraft:red_terracotta
+- minecraft:orange_terracotta
+- minecraft:yellow_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:green_terracotta
+- minecraft:cyan_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:blue_terracotta
+- minecraft:purple_terracotta
+- minecraft:magenta_terracotta
+- minecraft:pink_terracotta
+
+#traverse:fir_logs
+- traverse:fir_log
+- traverse:fir_wood
+- traverse:stripped_fir_log
+- traverse:stripped_fir_wood
+
+#adorn:posts
+- #adorn:wooden_posts
+- #adorn:stone_posts
+
+#c:red_garnet_blocks
+- techreborn:red_garnet_storage_block
+
+#adorn:chairs
+- adorn:oak_chair
+- adorn:spruce_chair
+- adorn:birch_chair
+- adorn:jungle_chair
+- adorn:acacia_chair
+- adorn:dark_oak_chair
+- adorn:crimson_chair
+- adorn:warped_chair
+- adorn:traverse_fir_chair
+- adorn:terrestria_cypress_chair
+- adorn:terrestria_hemlock_chair
+- adorn:terrestria_japanese_maple_chair
+- adorn:terrestria_rainbow_eucalyptus_chair
+- adorn:terrestria_redwood_chair
+- adorn:terrestria_rubber_chair
+- adorn:terrestria_sakura_chair
+- adorn:terrestria_willow_chair
+
+#nookbuild:concrete/blocks
+- minecraft:white_concrete
+- minecraft:light_gray_concrete
+- minecraft:gray_concrete
+- minecraft:black_concrete
+- minecraft:brown_concrete
+- minecraft:red_concrete
+- minecraft:orange_concrete
+- minecraft:yellow_concrete
+- minecraft:yellow_concrete
+- minecraft:lime_concrete
+- minecraft:green_concrete
+- minecraft:cyan_concrete
+- minecraft:light_blue_concrete
+- minecraft:blue_concrete
+- minecraft:purple_concrete
+- minecraft:magenta_concrete
+- minecraft:pink_concrete
+
+#c:tungsten_blocks
+- techreborn:tungsten_storage_block
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- blockus:oak_small_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- #terrestria:small_oak_logs
+
+#c:ruby_ores
+- techreborn:ruby_ore
+
+#wild_explorer:cherry_oak_logs
+- wild_explorer:cherry_oak_log
+- wild_explorer:stripped_cherry_oak_log
+- wild_explorer:cherry_oak_wood
+- wild_explorer:stripped_cherry_oak_wood
+
+#c:invar_blocks
+- techreborn:invar_storage_block
+
+#terrestria:rainbow_eucalyptus_logs
+- terrestria:rainbow_eucalyptus_log
+- terrestria:rainbow_eucalyptus_wood
+- terrestria:rainbow_eucalyptus_quarter_log
+- terrestria:stripped_rainbow_eucalyptus_log
+- terrestria:stripped_rainbow_eucalyptus_wood
+- terrestria:stripped_rainbow_eucalyptus_quarter_log
+
+#minecraft:piglin_repellents
+- minecraft:soul_fire
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_wall_torch
+- minecraft:soul_campfire
+- blockus:soul_lantern_block
+- blockus:soul_o_lantern
+
+#c:bookshelves
+- minecraft:bookshelf
+- betterend:umbrella_tree_bookshelf
+- betterend:jellyshroom_bookshelf
+- betterend:tenanea_bookshelf
+- betterend:helix_tree_bookshelf
+- betterend:mossy_glowshroom_bookshelf
+- betterend:dragon_tree_bookshelf
+- betterend:pythadendron_bookshelf
+- betterend:end_lotus_bookshelf
+- betterend:lacugrove_bookshelf
+
+#blockus:barrels
+- blockus:oak_barrel
+- minecraft:barrel
+- blockus:birch_barrel
+- blockus:jungle_barrel
+- blockus:acacia_barrel
+- blockus:dark_oak_barrel
+- blockus:crimson_barrel
+- blockus:warped_barrel
+- blockus:bamboo_barrel
+- blockus:charred_barrel
+- blockus:white_oak_barrel
+
+#minecraft:portals
+- minecraft:nether_portal
+- minecraft:end_portal
+- minecraft:end_gateway
+
+#c:concrete_powders
+- minecraft:white_concrete_powder
+- minecraft:orange_concrete_powder
+- minecraft:magenta_concrete_powder
+- minecraft:light_blue_concrete_powder
+- minecraft:yellow_concrete_powder
+- minecraft:lime_concrete_powder
+- minecraft:pink_concrete_powder
+- minecraft:gray_concrete_powder
+- minecraft:light_gray_concrete_powder
+- minecraft:cyan_concrete_powder
+- minecraft:purple_concrete_powder
+- minecraft:blue_concrete_powder
+- minecraft:brown_concrete_powder
+- minecraft:green_concrete_powder
+- minecraft:red_concrete_powder
+- minecraft:black_concrete_powder
+
+#minecraft:bamboo_plantable_on
+- #minecraft:sand
+- minecraft:bamboo
+- minecraft:bamboo_sapling
+- minecraft:gravel
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+
+#adorn:sofas
+- adorn:red_sofa
+- adorn:black_sofa
+- adorn:green_sofa
+- adorn:brown_sofa
+- adorn:blue_sofa
+- adorn:purple_sofa
+- adorn:cyan_sofa
+- adorn:light_gray_sofa
+- adorn:gray_sofa
+- adorn:pink_sofa
+- adorn:lime_sofa
+- adorn:yellow_sofa
+- adorn:light_blue_sofa
+- adorn:magenta_sofa
+- adorn:orange_sofa
+- adorn:white_sofa
+
+#c:silver_ores
+- techreborn:silver_ore
+
+#c:copper_blocks
+- techreborn:copper_storage_block
+
+#campanion:flat_tent_tops
+- campanion:pink_flat_tent_top
+- campanion:blue_flat_tent_top
+- campanion:lime_flat_tent_top
+- campanion:purple_flat_tent_top
+- campanion:white_flat_tent_top
+- campanion:gray_flat_tent_top
+- campanion:magenta_flat_tent_top
+- campanion:green_flat_tent_top
+- campanion:red_flat_tent_top
+- campanion:orange_flat_tent_top
+- campanion:black_flat_tent_top
+- campanion:yellow_flat_tent_top
+- campanion:cyan_flat_tent_top
+- campanion:light_gray_flat_tent_top
+- campanion:brown_flat_tent_top
+- campanion:light_blue_flat_tent_top
+
+#minecraft:pressure_plates
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- #minecraft:wooden_pressure_plates
+- #minecraft:stone_pressure_plates
+- betterend:flavolite_plate
+- betterend:violecite_plate
+- betterend:sulphuric_rock_plate
+
+#c:zinc_blocks
+- techreborn:zinc_storage_block
+
+#terrestria:rubber_logs
+- terrestria:rubber_log
+- terrestria:rubber_wood
+- terrestria:stripped_rubber_log
+- terrestria:stripped_rubber_wood
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- blockus:jungle_small_logs
+
+#campanion:lawn_chairs
+- campanion:yellow_lawn_chair
+- campanion:green_lawn_chair
+- campanion:purple_lawn_chair
+- campanion:cyan_lawn_chair
+- campanion:gray_lawn_chair
+- campanion:black_lawn_chair
+- campanion:brown_lawn_chair
+- campanion:magenta_lawn_chair
+- campanion:light_blue_lawn_chair
+- campanion:lime_lawn_chair
+- campanion:white_lawn_chair
+- campanion:orange_lawn_chair
+- campanion:light_gray_lawn_chair
+- campanion:red_lawn_chair
+- campanion:blue_lawn_chair
+- campanion:pink_lawn_chair
+
+#adorn:kitchen_blocks
+- #adorn:kitchen_counters
+- #adorn:kitchen_cupboards
+- #adorn:kitchen_sinks
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- nookbuild:oak_wood_stairs
+- nookbuild:spruce_wood_stairs
+- nookbuild:birch_wood_stairs
+- nookbuild:jungle_wood_stairs
+- nookbuild:acacia_wood_stairs
+- nookbuild:dark_oak_wood_stairs
+- nookbuild:crimson_hyphae_stairs
+- nookbuild:warped_hyphae_stairs
+- techreborn:rubber_plank_stair
+- wild_explorer:cherry_oak_stairs
+- wild_explorer:cherry_oak_wood_stairs
+- wild_explorer:palm_stairs
+- wild_explorer:palm_wood_stairs
+- wild_explorer:dark_amaranth_stairs
+- wild_explorer:dark_amaranth_hyphae_stairs
+- blockus:bamboo_stairs
+- blockus:charred_stairs
+- blockus:white_oak_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- terrestria:redwood_stairs
+- terrestria:hemlock_stairs
+- terrestria:rubber_stairs
+- terrestria:cypress_stairs
+- terrestria:japanese_maple_stairs
+- terrestria:rainbow_eucalyptus_stairs
+- terrestria:sakura_stairs
+- terrestria:willow_stairs
+- terrestria:yucca_palm_stairs
+- traverse:fir_stairs
+- cinderscapes:scorched_stairs
+- cinderscapes:umbral_stairs
+- betterend:helix_tree_stairs
+- betterend:jellyshroom_stairs
+- betterend:umbrella_tree_stairs
+- betterend:lacugrove_stairs
+- betterend:dragon_tree_stairs
+- betterend:pythadendron_stairs
+- betterend:tenanea_stairs
+- betterend:mossy_glowshroom_stairs
+- betterend:end_lotus_stairs
+
+#adorn:wooden_platforms
+- adorn:oak_platform
+- adorn:spruce_platform
+- adorn:birch_platform
+- adorn:jungle_platform
+- adorn:acacia_platform
+- adorn:dark_oak_platform
+- adorn:crimson_platform
+- adorn:warped_platform
+- adorn:traverse_fir_platform
+- adorn:terrestria_cypress_platform
+- adorn:terrestria_hemlock_platform
+- adorn:terrestria_japanese_maple_platform
+- adorn:terrestria_rainbow_eucalyptus_platform
+- adorn:terrestria_redwood_platform
+- adorn:terrestria_rubber_platform
+- adorn:terrestria_sakura_platform
+- adorn:terrestria_willow_platform
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- blockus:spruce_small_logs
+
+#terraform:grass_blocks
+- terrestria:basalt_grass_block
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:base_stone_overworld
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+- wild_explorer:blunite
+- wild_explorer:carbonite
+- blockus:limestone
+- blockus:bluestone
+- blockus:marble
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- nookbuild:oak_wood_button
+- nookbuild:spruce_wood_button
+- nookbuild:birch_wood_button
+- nookbuild:jungle_wood_button
+- nookbuild:acacia_wood_button
+- nookbuild:dark_oak_wood_button
+- nookbuild:crimson_hyphae_button
+- nookbuild:warped_hyphae_button
+- techreborn:rubber_button
+- wild_explorer:cherry_oak_button
+- wild_explorer:cherry_oak_wood_button
+- wild_explorer:palm_button
+- wild_explorer:palm_wood_button
+- wild_explorer:dark_amaranth_button
+- wild_explorer:dark_amaranth_hyphae_button
+- blockus:bamboo_button
+- blockus:charred_button
+- blockus:white_oak_button
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- terrestria:redwood_button
+- terrestria:hemlock_button
+- terrestria:rubber_button
+- terrestria:cypress_button
+- terrestria:japanese_maple_button
+- terrestria:rainbow_eucalyptus_button
+- terrestria:sakura_button
+- terrestria:willow_button
+- terrestria:yucca_palm_button
+- traverse:fir_button
+- cinderscapes:scorched_button
+- cinderscapes:umbral_button
+- betterend:lacugrove_button
+- betterend:helix_tree_button
+- betterend:pythadendron_button
+- betterend:mossy_glowshroom_button
+- betterend:tenanea_button
+- betterend:end_lotus_button
+- betterend:dragon_tree_button
+- betterend:umbrella_tree_button
+- betterend:jellyshroom_button
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- betterend:flavolite_bricks
+- betterend:sulphuric_rock_bricks
+- betterend:violecite_bricks
+
+#nookbuild:dark_prismarine/stairs
+- minecraft:dark_prismarine_stairs
+- nookbuild:white_dark_prismarine_stairs
+- nookbuild:light_gray_dark_prismarine_stairs
+- nookbuild:gray_dark_prismarine_stairs
+- nookbuild:black_dark_prismarine_stairs
+- nookbuild:brown_dark_prismarine_stairs
+- nookbuild:red_dark_prismarine_stairs
+- nookbuild:orange_dark_prismarine_stairs
+- nookbuild:yellow_dark_prismarine_stairs
+- nookbuild:lime_dark_prismarine_stairs
+- nookbuild:green_dark_prismarine_stairs
+- nookbuild:cyan_dark_prismarine_stairs
+- nookbuild:light_blue_dark_prismarine_stairs
+- nookbuild:blue_dark_prismarine_stairs
+- nookbuild:purple_dark_prismarine_stairs
+- nookbuild:magenta_dark_prismarine_stairs
+- nookbuild:pink_dark_prismarine_stairs
+
+#campanion:tent_sides
+- campanion:green_tent_side
+- campanion:lime_tent_side
+- campanion:brown_tent_side
+- campanion:gray_tent_side
+- campanion:light_gray_tent_side
+- campanion:orange_tent_side
+- campanion:light_blue_tent_side
+- campanion:pink_tent_side
+- campanion:yellow_tent_side
+- campanion:white_tent_side
+- campanion:cyan_tent_side
+- campanion:black_tent_side
+- campanion:magenta_tent_side
+- campanion:purple_tent_side
+- campanion:blue_tent_side
+- campanion:red_tent_side
+
+#betterend:end_ground
+- betterend:end_mycelium
+- betterend:crystal_moss
+- betterend:thallasium_ore
+- betterend:end_moss
+- betterend:chorus_nylium
+- betterend:pink_moss
+- betterend:jungle_moss
+- betterend:endstone_dust
+- betterend:amber_moss
+- minecraft:end_stone
+- betterend:sulphuric_rock
+- betterend:amber_ore
+- betterend:cave_moss
+- betterend:shadow_grass
+- betterend:brimstone
+
+#betterend:umbrella_tree_logs
+- betterend:umbrella_tree_stripped_bark
+- betterend:umbrella_tree_stripped_log
+- betterend:umbrella_tree_bark
+- betterend:umbrella_tree_log
+
+#campanion:tent_tops
+- campanion:light_gray_tent_top
+- campanion:light_blue_tent_top
+- campanion:black_tent_top
+- campanion:cyan_tent_top
+- campanion:gray_tent_top
+- campanion:white_tent_top
+- campanion:green_tent_top
+- campanion:lime_tent_top
+- campanion:blue_tent_top
+- campanion:red_tent_top
+- campanion:orange_tent_top
+- campanion:pink_tent_top
+- campanion:purple_tent_top
+- campanion:yellow_tent_top
+- campanion:brown_tent_top
+- campanion:magenta_tent_top
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- #nookbuild:bricks/slabs
+- #nookbuild:brick_tiles/slabs
+- #nookbuild:concrete/slabs
+- #nookbuild:dark_prismarine/slabs
+- #nookbuild:terracotta/slabs
+- nookbuild:cobblestone_brick_slab
+- nookbuild:mossy_cobblestone_brick_slab
+- nookbuild:granite_brick_slab
+- nookbuild:diorite_brick_slab
+- nookbuild:andesite_brick_slab
+- nookbuild:sandstone_brick_slab
+- nookbuild:polished_sandstone_slab
+- nookbuild:red_sandstone_brick_slab
+- nookbuild:polished_red_sandstone_slab
+- nookbuild:smooth_stone_paving_slab
+- nookbuild:chiseled_prismarine_slab
+- nookbuild:prismarine_brick_paving_slab
+- techreborn:rubber_plank_slab
+- techreborn:aluminum_storage_block_slab
+- techreborn:brass_storage_block_slab
+- techreborn:bronze_storage_block_slab
+- techreborn:chrome_storage_block_slab
+- techreborn:copper_storage_block_slab
+- techreborn:electrum_storage_block_slab
+- techreborn:invar_storage_block_slab
+- techreborn:iridium_storage_block_slab
+- techreborn:iridium_reinforced_stone_storage_block_slab
+- techreborn:iridium_reinforced_tungstensteel_storage_block_slab
+- techreborn:lead_storage_block_slab
+- techreborn:nickel_storage_block_slab
+- techreborn:peridot_storage_block_slab
+- techreborn:platinum_storage_block_slab
+- techreborn:red_garnet_storage_block_slab
+- techreborn:refined_iron_storage_block_slab
+- techreborn:ruby_storage_block_slab
+- techreborn:sapphire_storage_block_slab
+- techreborn:silver_storage_block_slab
+- techreborn:steel_storage_block_slab
+- techreborn:tin_storage_block_slab
+- techreborn:titanium_storage_block_slab
+- techreborn:tungsten_storage_block_slab
+- techreborn:tungstensteel_storage_block_slab
+- techreborn:yellow_garnet_storage_block_slab
+- techreborn:zinc_storage_block_slab
+- wild_explorer:blunite_slab
+- wild_explorer:polished_blunite_slab
+- wild_explorer:carbonite_slab
+- wild_explorer:polished_carbonite_slab
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:acacia_slab
+- minecraft:birch_slab
+- minecraft:dark_oak_slab
+- minecraft:jungle_slab
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- terrestria:redwood_slab
+- terrestria:hemlock_slab
+- terrestria:rubber_slab
+- terrestria:cypress_slab
+- terrestria:japanese_maple_slab
+- terrestria:rainbow_eucalyptus_slab
+- terrestria:sakura_slab
+- terrestria:willow_slab
+- terrestria:yucca_palm_slab
+- terrestria:basalt_slab
+- terrestria:smooth_basalt_slab
+- terrestria:basalt_cobblestone_slab
+- terrestria:mossy_basalt_cobblestone_slab
+- terrestria:basalt_brick_slab
+- terrestria:mossy_basalt_brick_slab
+- allure:cobblestone_bricks_slab
+- allure:mossy_cobblestone_bricks_slab
+- lifts:machine_block_slab
+- cinderscapes:sulfur_quartz_slab
+- cinderscapes:smooth_sulfur_quartz_slab
+- cinderscapes:rose_quartz_slab
+- cinderscapes:smooth_rose_quartz_slab
+- cinderscapes:smoky_quartz_slab
+- cinderscapes:smooth_smoky_quartz_slab
+- betterend:jellyshroom_slab
+- betterend:tenanea_slab
+- betterend:helix_tree_slab
+- betterend:pythadendron_slab
+- betterend:violecite_bricks_slab
+- betterend:mossy_glowshroom_slab
+- betterend:umbrella_tree_slab
+- betterend:violecite_slab
+- betterend:dragon_tree_slab
+- betterend:lacugrove_slab
+- betterend:end_lotus_slab
+- betterend:sulphuric_rock_slab
+- betterend:flavolite_bricks_slab
+- betterend:flavolite_slab
+- betterend:sulphuric_rock_bricks_slab
+
+#nookbuild:concrete/stairs
+- nookbuild:white_concrete_stairs
+- nookbuild:light_gray_concrete_stairs
+- nookbuild:gray_concrete_stairs
+- nookbuild:black_concrete_stairs
+- nookbuild:brown_concrete_stairs
+- nookbuild:red_concrete_stairs
+- nookbuild:orange_concrete_stairs
+- nookbuild:yellow_concrete_stairs
+- nookbuild:yellow_concrete_stairs
+- nookbuild:lime_concrete_stairs
+- nookbuild:green_concrete_stairs
+- nookbuild:cyan_concrete_stairs
+- nookbuild:light_blue_concrete_stairs
+- nookbuild:blue_concrete_stairs
+- nookbuild:purple_concrete_stairs
+- nookbuild:magenta_concrete_stairs
+- nookbuild:pink_concrete_stairs
+
+#nookbuild:brick_tiles/stairs
+- nookbuild:brick_tile_stairs
+- nookbuild:white_brick_tile_stairs
+- nookbuild:light_gray_brick_tile_stairs
+- nookbuild:gray_brick_tile_stairs
+- nookbuild:black_brick_tile_stairs
+- nookbuild:brown_brick_tile_stairs
+- nookbuild:red_brick_tile_stairs
+- nookbuild:orange_brick_tile_stairs
+- nookbuild:yellow_brick_tile_stairs
+- nookbuild:lime_brick_tile_stairs
+- nookbuild:green_brick_tile_stairs
+- nookbuild:cyan_brick_tile_stairs
+- nookbuild:light_blue_brick_tile_stairs
+- nookbuild:blue_brick_tile_stairs
+- nookbuild:purple_brick_tile_stairs
+- nookbuild:magenta_brick_tile_stairs
+- nookbuild:pink_brick_tile_stairs
+
+#minecraft:guarded_by_piglins
+- minecraft:gold_block
+- minecraft:barrel
+- minecraft:chest
+- minecraft:ender_chest
+- minecraft:gilded_blackstone
+- minecraft:trapped_chest
+- #minecraft:shulker_boxes
+- #minecraft:gold_ores
+- blockus:legacy_gold_block
+- blockus:legacy_explosion_proof_gold_block
+- #blockus:barrels
+
+#nookbuild:dark_prismarine/blocks
+- minecraft:dark_prismarine
+- nookbuild:white_dark_prismarine
+- nookbuild:light_gray_dark_prismarine
+- nookbuild:gray_dark_prismarine
+- nookbuild:black_dark_prismarine
+- nookbuild:brown_dark_prismarine
+- nookbuild:red_dark_prismarine
+- nookbuild:orange_dark_prismarine
+- nookbuild:yellow_dark_prismarine
+- nookbuild:lime_dark_prismarine
+- nookbuild:green_dark_prismarine
+- nookbuild:cyan_dark_prismarine
+- nookbuild:light_blue_dark_prismarine
+- nookbuild:blue_dark_prismarine
+- nookbuild:purple_dark_prismarine
+- nookbuild:magenta_dark_prismarine
+- nookbuild:pink_dark_prismarine
+
+#nookbuild:concrete/slabs
+- nookbuild:white_concrete_slab
+- nookbuild:light_gray_concrete_slab
+- nookbuild:gray_concrete_slab
+- nookbuild:black_concrete_slab
+- nookbuild:brown_concrete_slab
+- nookbuild:red_concrete_slab
+- nookbuild:orange_concrete_slab
+- nookbuild:yellow_concrete_slab
+- nookbuild:yellow_concrete_slab
+- nookbuild:lime_concrete_slab
+- nookbuild:green_concrete_slab
+- nookbuild:cyan_concrete_slab
+- nookbuild:light_blue_concrete_slab
+- nookbuild:blue_concrete_slab
+- nookbuild:purple_concrete_slab
+- nookbuild:magenta_concrete_slab
+- nookbuild:pink_concrete_slab
+
+#nookbuild:bricks/slabs
+- minecraft:brick_slab
+- nookbuild:white_brick_slab
+- nookbuild:light_gray_brick_slab
+- nookbuild:gray_brick_slab
+- nookbuild:black_brick_slab
+- nookbuild:brown_brick_slab
+- nookbuild:red_brick_slab
+- nookbuild:orange_brick_slab
+- nookbuild:yellow_brick_slab
+- nookbuild:lime_brick_slab
+- nookbuild:green_brick_slab
+- nookbuild:cyan_brick_slab
+- nookbuild:light_blue_brick_slab
+- nookbuild:blue_brick_slab
+- nookbuild:purple_brick_slab
+- nookbuild:magenta_brick_slab
+- nookbuild:pink_brick_slab
+
+#adorn:kitchen_counters
+- adorn:oak_kitchen_counter
+- adorn:spruce_kitchen_counter
+- adorn:birch_kitchen_counter
+- adorn:jungle_kitchen_counter
+- adorn:acacia_kitchen_counter
+- adorn:dark_oak_kitchen_counter
+- adorn:crimson_kitchen_counter
+- adorn:warped_kitchen_counter
+- adorn:traverse_fir_kitchen_counter
+- adorn:terrestria_cypress_kitchen_counter
+- adorn:terrestria_hemlock_kitchen_counter
+- adorn:terrestria_japanese_maple_kitchen_counter
+- adorn:terrestria_rainbow_eucalyptus_kitchen_counter
+- adorn:terrestria_redwood_kitchen_counter
+- adorn:terrestria_rubber_kitchen_counter
+- adorn:terrestria_sakura_kitchen_counter
+- adorn:terrestria_willow_kitchen_counter
+
+#adorn:stone_platforms
+- adorn:stone_platform
+- adorn:cobblestone_platform
+- adorn:sandstone_platform
+- adorn:andesite_platform
+- adorn:granite_platform
+- adorn:diorite_platform
+- adorn:brick_platform
+- adorn:stone_brick_platform
+- adorn:red_sandstone_platform
+- adorn:nether_brick_platform
+- adorn:basalt_platform
+- adorn:terrestria_basalt_platform
+- adorn:terrestria_basalt_cobblestone_platform
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+
+#minecraft:corals
+- #minecraft:coral_plants
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+
+#c:concrete
+- minecraft:white_concrete
+- minecraft:orange_concrete
+- minecraft:magenta_concrete
+- minecraft:light_blue_concrete
+- minecraft:yellow_concrete
+- minecraft:lime_concrete
+- minecraft:pink_concrete
+- minecraft:gray_concrete
+- minecraft:light_gray_concrete
+- minecraft:cyan_concrete
+- minecraft:purple_concrete
+- minecraft:blue_concrete
+- minecraft:brown_concrete
+- minecraft:green_concrete
+- minecraft:red_concrete
+- minecraft:black_concrete
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- #nookbuild:concrete/buttons
+- #nookbuild:terracotta/buttons
+- blockus:polished_andesite_button
+- blockus:polished_diorite_button
+- blockus:polished_granite_button
+- blockus:limestone_button
+- blockus:marble_button
+- blockus:bluestone_button
+- blockus:polished_netherrack_button
+- blockus:polished_end_stone_button
+- blockus:polished_basalt_button
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- terrestria:basalt_button
+- betterend:lacugrove_button
+- betterend:helix_tree_button
+- betterend:pythadendron_button
+- betterend:mossy_glowshroom_button
+- betterend:tenanea_button
+- betterend:end_lotus_button
+- betterend:dragon_tree_button
+- betterend:umbrella_tree_button
+- betterend:jellyshroom_button
+
+#c:galena_ores
+- techreborn:galena_ore
+
+#adorn:chimneys
+- adorn:brick_chimney
+- adorn:stone_brick_chimney
+- adorn:nether_brick_chimney
+- adorn:red_nether_brick_chimney
+- adorn:cobblestone_chimney
+- adorn:prismarine_chimney
+- adorn:soulful_prismarine_chimney
+- adorn:magmatic_prismarine_chimney
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- techreborn:rubber_planks
+- wild_explorer:cherry_oak_planks
+- wild_explorer:palm_planks
+- wild_explorer:dark_amaranth_planks
+- blockus:bamboo_planks
+- blockus:charred_planks
+- blockus:white_oak_planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- terrestria:redwood_planks
+- terrestria:hemlock_planks
+- terrestria:rubber_planks
+- terrestria:cypress_planks
+- terrestria:japanese_maple_planks
+- terrestria:rainbow_eucalyptus_planks
+- terrestria:sakura_planks
+- terrestria:willow_planks
+- terrestria:yucca_palm_planks
+- traverse:fir_planks
+- cinderscapes:umbral_planks
+- cinderscapes:scorched_planks
+- betterend:jellyshroom_planks
+- betterend:mossy_glowshroom_planks
+- betterend:helix_tree_planks
+- betterend:end_lotus_planks
+- betterend:dragon_tree_planks
+- betterend:tenanea_planks
+- betterend:pythadendron_planks
+- betterend:lacugrove_planks
+- betterend:umbrella_tree_planks
+
+#adorn:tables
+- adorn:oak_table
+- adorn:spruce_table
+- adorn:birch_table
+- adorn:jungle_table
+- adorn:acacia_table
+- adorn:dark_oak_table
+- adorn:crimson_table
+- adorn:warped_table
+- adorn:traverse_fir_table
+- adorn:terrestria_cypress_table
+- adorn:terrestria_hemlock_table
+- adorn:terrestria_japanese_maple_table
+- adorn:terrestria_rainbow_eucalyptus_table
+- adorn:terrestria_redwood_table
+- adorn:terrestria_rubber_table
+- adorn:terrestria_sakura_table
+- adorn:terrestria_willow_table
+
+#c:silver_blocks
+- techreborn:silver_storage_block
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#c:basalt
+- minecraft:basalt
+- minecraft:polished_basalt
+- terrestria:basalt
+- terrestria:smooth_basalt
+- terrestria:basalt_cobblestone
+- terrestria:mossy_basalt_cobblestone
+- terrestria:basalt_bricks
+- terrestria:chiseled_basalt_bricks
+- terrestria:cracked_basalt_bricks
+- terrestria:mossy_basalt_bricks
+
+#minecraft:strider_warm_blocks
+- minecraft:lava
+
+#minecraft:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- wild_explorer:dark_amaranth_fence_gate
+- wild_explorer:palm_fence_gate
+- wild_explorer:cherry_oak_fence_gate
+
+#minecraft:bee_growables
+- #minecraft:crops
+- minecraft:sweet_berry_bush
+- wild_explorer:blueberry_bush
+
+#betterend:gen_terrain
+- betterend:end_mycelium
+- betterend:crystal_moss
+- betterend:ender_ore
+- betterend:thallasium_ore
+- betterend:end_moss
+- betterend:chorus_nylium
+- betterend:pink_moss
+- betterend:flavolite
+- betterend:jungle_moss
+- betterend:violecite
+- betterend:endstone_dust
+- betterend:amber_moss
+- minecraft:end_stone
+- betterend:sulphuric_rock
+- betterend:amber_ore
+- betterend:cave_moss
+- betterend:shadow_grass
+- betterend:brimstone
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- techreborn:rubber_pressure_plate
+- wild_explorer:cherry_oak_pressure_plate
+- wild_explorer:palm_pressure_plate
+- wild_explorer:dark_amaranth_pressure_plate
+- blockus:bamboo_pressure_plate
+- blockus:charred_pressure_plate
+- blockus:white_oak_pressure_plate
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- terrestria:redwood_pressure_plate
+- terrestria:hemlock_pressure_plate
+- terrestria:rubber_pressure_plate
+- terrestria:cypress_pressure_plate
+- terrestria:japanese_maple_pressure_plate
+- terrestria:rainbow_eucalyptus_pressure_plate
+- terrestria:sakura_pressure_plate
+- terrestria:willow_pressure_plate
+- terrestria:yucca_palm_pressure_plate
+- traverse:fir_pressure_plate
+- cinderscapes:scorched_pressure_plate
+- cinderscapes:umbral_pressure_plate
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#adorn:kitchen_sinks
+- adorn:oak_kitchen_sink
+- adorn:spruce_kitchen_sink
+- adorn:birch_kitchen_sink
+- adorn:jungle_kitchen_sink
+- adorn:acacia_kitchen_sink
+- adorn:dark_oak_kitchen_sink
+- adorn:crimson_kitchen_sink
+- adorn:warped_kitchen_sink
+- adorn:traverse_fir_kitchen_sink
+- adorn:terrestria_cypress_kitchen_sink
+- adorn:terrestria_hemlock_kitchen_sink
+- adorn:terrestria_japanese_maple_kitchen_sink
+- adorn:terrestria_rainbow_eucalyptus_kitchen_sink
+- adorn:terrestria_redwood_kitchen_sink
+- adorn:terrestria_rubber_kitchen_sink
+- adorn:terrestria_sakura_kitchen_sink
+- adorn:terrestria_willow_kitchen_sink
+
+#nookbuild:terracotta/slabs
+- nookbuild:terracotta_slab
+- nookbuild:white_terracotta_slab
+- nookbuild:light_gray_terracotta_slab
+- nookbuild:gray_terracotta_slab
+- nookbuild:black_terracotta_slab
+- nookbuild:brown_terracotta_slab
+- nookbuild:red_terracotta_slab
+- nookbuild:orange_terracotta_slab
+- nookbuild:yellow_terracotta_slab
+- nookbuild:yellow_terracotta_slab
+- nookbuild:lime_terracotta_slab
+- nookbuild:green_terracotta_slab
+- nookbuild:cyan_terracotta_slab
+- nookbuild:light_blue_terracotta_slab
+- nookbuild:blue_terracotta_slab
+- nookbuild:purple_terracotta_slab
+- nookbuild:magenta_terracotta_slab
+- nookbuild:pink_terracotta_slab
+
+#c:iridium_reinforced_tungstensteel_blocks
+- techreborn:iridium_reinforced_tungstensteel_storage_block
+
+#minecraft:stone_pressure_plates
+- minecraft:stone_pressure_plate
+- minecraft:polished_blackstone_pressure_plate
+- #nookbuild:concrete/pressure_plates
+- #nookbuild:terracotta/pressure_plates
+- blockus:polished_andesite_pressure_plate
+- blockus:polished_diorite_pressure_plate
+- blockus:polished_granite_pressure_plate
+- blockus:limestone_pressure_plate
+- blockus:marble_pressure_plate
+- blockus:bluestone_pressure_plate
+- blockus:polished_netherrack_pressure_plate
+- blockus:polished_end_stone_pressure_plate
+- blockus:polished_basalt_pressure_plate
+- betterend:flavolite_plate
+- betterend:violecite_plate
+- betterend:sulphuric_rock_plate
+
+#c:lead_blocks
+- techreborn:lead_storage_block
+
+#adorn:table_lamps
+- adorn:red_table_lamp
+- adorn:black_table_lamp
+- adorn:green_table_lamp
+- adorn:brown_table_lamp
+- adorn:blue_table_lamp
+- adorn:purple_table_lamp
+- adorn:cyan_table_lamp
+- adorn:light_gray_table_lamp
+- adorn:gray_table_lamp
+- adorn:pink_table_lamp
+- adorn:lime_table_lamp
+- adorn:yellow_table_lamp
+- adorn:light_blue_table_lamp
+- adorn:magenta_table_lamp
+- adorn:orange_table_lamp
+- adorn:white_table_lamp
+
+#minecraft:nylium
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+- wild_explorer:black_dylium
+- cinderscapes:umbral_nylium
+- betterend:end_mycelium
+- betterend:crystal_moss
+- betterend:end_moss
+- betterend:chorus_nylium
+- betterend:pink_moss
+- betterend:jungle_moss
+- betterend:cave_moss
+- betterend:shadow_grass
+- betterend:amber_moss
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#terrestria:japanese_maple_logs
+- terrestria:japanese_maple_log
+- terrestria:japanese_maple_wood
+- terrestria:stripped_japanese_maple_log
+- terrestria:stripped_japanese_maple_wood
+
+#adorn:steps
+- #adorn:wooden_steps
+- #adorn:stone_steps
+
+#c:sapphire_ores
+- techreborn:sapphire_ore
+
+#nookbuild:brick_tiles/blocks
+- nookbuild:brick_tiles
+- nookbuild:white_brick_tiles
+- nookbuild:light_gray_brick_tiles
+- nookbuild:gray_brick_tiles
+- nookbuild:black_brick_tiles
+- nookbuild:brown_brick_tiles
+- nookbuild:red_brick_tiles
+- nookbuild:orange_brick_tiles
+- nookbuild:yellow_brick_tiles
+- nookbuild:lime_brick_tiles
+- nookbuild:green_brick_tiles
+- nookbuild:cyan_brick_tiles
+- nookbuild:light_blue_brick_tiles
+- nookbuild:blue_brick_tiles
+- nookbuild:purple_brick_tiles
+- nookbuild:magenta_brick_tiles
+- nookbuild:pink_brick_tiles
+
+#adorn:drawers
+- adorn:oak_drawer
+- adorn:spruce_drawer
+- adorn:birch_drawer
+- adorn:jungle_drawer
+- adorn:acacia_drawer
+- adorn:dark_oak_drawer
+- adorn:crimson_drawer
+- adorn:warped_drawer
+- adorn:traverse_fir_drawer
+- adorn:terrestria_cypress_drawer
+- adorn:terrestria_hemlock_drawer
+- adorn:terrestria_japanese_maple_drawer
+- adorn:terrestria_rainbow_eucalyptus_drawer
+- adorn:terrestria_redwood_drawer
+- adorn:terrestria_rubber_drawer
+- adorn:terrestria_sakura_drawer
+- adorn:terrestria_willow_drawer
+
+#c:peridot_blocks
+- techreborn:peridot_storage_block
+
+#adorn:kitchen_cupboards
+- adorn:oak_kitchen_cupboard
+- adorn:spruce_kitchen_cupboard
+- adorn:birch_kitchen_cupboard
+- adorn:jungle_kitchen_cupboard
+- adorn:acacia_kitchen_cupboard
+- adorn:dark_oak_kitchen_cupboard
+- adorn:crimson_kitchen_cupboard
+- adorn:warped_kitchen_cupboard
+- adorn:traverse_fir_kitchen_cupboard
+- adorn:terrestria_cypress_kitchen_cupboard
+- adorn:terrestria_hemlock_kitchen_cupboard
+- adorn:terrestria_japanese_maple_kitchen_cupboard
+- adorn:terrestria_rainbow_eucalyptus_kitchen_cupboard
+- adorn:terrestria_redwood_kitchen_cupboard
+- adorn:terrestria_rubber_kitchen_cupboard
+- adorn:terrestria_sakura_kitchen_cupboard
+- adorn:terrestria_willow_kitchen_cupboard

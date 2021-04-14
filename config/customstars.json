@@ -1,0 +1,14 @@
+{
+  "baseSize": 0.15,
+  "maxSizeMultiplier": 0.1,
+  "starCount": 1500,
+  "red": 255,
+  "green": 255,
+  "blue": 255,
+  "alpha": 1.0,
+  "endSize": 1.0,
+  "endRed": 40,
+  "endGreen": 0,
+  "endBlue": 19,
+  "endAlpha": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "sound": "minecraft:entity.player.levelup",
+  "pitch": 1.5,
+  "playWhenWorldLoaded": false,
+  "requireUnfocused": false,
+  "requestWindowAttention": false
+}
