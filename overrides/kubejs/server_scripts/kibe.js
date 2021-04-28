@@ -11,108 +11,17 @@
 
 // I am Hououiin Kyouma!
 
-events.listen("recipes", function (event) {
-    event.remove({mod: "kibe"});
-    var colours = [
-        "white",
-        "orange",
-        "magenta",
-        "light_blue",
-        "yellow",
-        "lime",
-        "pink",
-        "gray",
-        "light_gray",
-        "cyan",
-        "purple",
-        "blue",
-        "brown",
-        "green",
-        "red",
-        "black"
-    ]
-    //Elevators
-    colours.forEach(function (items, index) {
-        event.shaped(item.of("kibe:" + items + "_elevator"), [
-            ["minecraft:" + items + "_dye", "minecraft:ender_pearl", "minecraft:" + items + "_dye"],
-            ["minecraft:iron_ingot", "minecraft:piston", "minecraft:iron_ingot"],
-            ["minecraft:" + items + "_dye", "minecraft:iron_ingot", "minecraft:" + items + "_dye"],
-        ]);
-    });
-    //Vacuum Hopper
-    event.shaped(item.of("kibe:vacuum_hopper"), [
-        ["minecraft:obsidian", "minecraft:iron_bars", "minecraft:obsidian"],
-        ["minecraft:chest", "minecraft:ender_eye", "minecraft:bucket"],
-        ["minecraft:obsidian", "minecraft:iron_bars", "minecraft:obsidian"],
-    ]);
-    //Cursed Seeds
-    event.shaped(item.of("kibe:cursed_seeds"), [
-        [null, "kibe:cursed_droplets", null],
-        ["kibe:cursed_droplets", "minecraft:wheat_seeds", "kibe:cursed_droplets"],
-        [null, "kibe:cursed_droplets", null],
-    ]);
-    //Iron Spikes
-    event.shaped(item.of("kibe:iron_spikes", 4), [
-        [null, "minecraft:iron_sword", null],
-        ["minecraft:iron_sword", "minecraft:cobblestone_slab", "minecraft:iron_sword"],
-    ]);
-    //Diamond Spikes
-    event.shaped(item.of("kibe:diamond_spikes", 4), [
-        [null, "minecraft:diamond_sword", null],
-        ["minecraft:diamond_sword", "kibe:iron_spikes", "minecraft:diamond_sword"],
-    ]);
-    //Void Bucket
-    event.shaped(item.of("kibe:void_bucket"), [
-        [null, "minecraft:ender_eye", null],
-        ["minecraft:obsidian", "minecraft:bucket", "minecraft:obsidian"],
-        [null, "minecraft:obsidian", null],
-    ]);
-    //Magnet
-    event.shaped(item.of("kibe:magnet"), [
-        ["minecraft:red_dye", "minecraft:iron_ingot", "minecraft:iron_ingot"],
-        ["minecraft:iron_ingot", "minecraft:ender_eye", null],
-        ["minecraft:red_dye", "minecraft:iron_ingot", "minecraft:iron_ingot"],
-    ]);
-    //Tank
-    event.shaped(item.of("kibe:tank"), [
-        ["minecraft:obsidian", "minecraft:glass", "minecraft:obsidian"],
-        ["minecraft:glass", null, "minecraft:glass"],
-        ["minecraft:obsidian", "minecraft:glass", "minecraft:obsidian"],
-    ]);
-    //XP Shower
-    event.shaped(item.of("kibe:xp_shower"), [
-        ["minecraft:iron_ingot", "minecraft:bucket"],
-        [null, "minecraft:iron_bars"],
-    ]);
-    //XP Drain
-    event.shaped(item.of("kibe:xp_drain"), [
-        ["minecraft:iron_ingot", "minecraft:iron_bars", "minecraft:iron_ingot"],
-        [null, "minecraft:bucket", null],
-    ]);
-    //Trash Can
-    event.shaped(item.of("kibe:trash_can"), [
-        ["minecraft:stone", "minecraft:stone", "minecraft:stone"],
-        ["minecraft:stone_bricks", "minecraft:chest", "minecraft:stone_bricks"],
-        ["minecraft:stone_bricks", "minecraft:cactus", "minecraft:stone_bricks"],
-    ]);
-    //Golden Lasso
-    event.shaped(item.of("kibe:golden_lasso"), [
-        ["minecraft:gold_nugget", "minecraft:ender_eye", "minecraft:gold_nugget"],
-        ["minecraft:gold_ingot", "minecraft:lead", "minecraft:gold_ingot"],
-        ["minecraft:gold_nugget", "minecraft:ender_eye", "minecraft:gold_nugget"],
-    ]);
-    //Cursed Lasso
-    event.shaped(item.of("kibe:cursed_lasso"), [
-        ["kibe:cursed_droplets", "kibe:cursed_droplets", "kibe:cursed_droplets"],
-        ["kibe:cursed_droplets", "kibe:golden_lasso", "kibe:cursed_droplets"],
-        ["kibe:cursed_droplets", "kibe:cursed_droplets", "kibe:cursed_droplets"],
-    ]);
-    //Diamond Lasso
-    event.shaped(item.of("kibe:diamond_lasso"), [
-        [null, "kibe:golden_lasso", null],
-        ["minecraft:diamond", "minecraft:lead", "minecraft:diamond"],
-        [null, "kibe:cursed_lasso", null],
-    ]);
-    //Pocket Trash Can
-    event.shapeless(item.of("kibe:pocket_trash_can"), ["#minecraft:signs", "kibe:trash_can"]);
+// Tags
+onEvent('item.tags', event => {
+    event.add('okarin:deleted', 'kibe:regular_conveyor_belt')
+    event.add('okarin:deleted', 'kibe:fast_conveyor_belt')
+    event.add('okarin:deleted', 'kibe:express_conveyor_belt')
+    event.add('okarin:deleted', 'kibe:slime_sling')
+    event.add('okarin:deleted', 'kibe:chunk_loader')
+    event.add('okarin:deleted', 'kibe:slime_boots')
 })
+
+// Recipies
+events.listen("recipes", function (event) {
+    event.remove({output: "#okarin:deleted"});
+    })
