@@ -1,0 +1,105 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  renderorder = foreground
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = 2
+  width = 98
+  actionid = 45ee775b-5ad2-4135-b2a0-16d10ed0184d1619588212091
+  action = addbutton
+  y = -20
+  label = Discord
+  value = https://discord.com/invite/9qJqG9nvN3
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -49
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=400382%
+  width = 47
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=400346%
+  width = 47
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 26
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=502298%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 3
+}
+
+customization {
+  identifier = %id=502298%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+

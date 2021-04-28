@@ -9,11 +9,31 @@
 //█████   1 10████0 ████ 01████0 0010  1██ 01██████████  0█1 0███████ 0 █
 //███████████████████████████████████████████████████████████████████████
 
+// I am Hououiin Kyouma!
+
 // Missed Recipies and QOL
 
 events.listen("recipes", function (event) {
 
-  // Sticks
+// Broken Stuff
+  event.remove({output: 'redstonebits:breaker'})
+  event.remove({output: 'conveyance:catwalk_stairs'})
+  event.remove({output: 'conveyance:catwalk'})
+
+// Ender Heart
+event.remove({output: 'waystones:pocket_wormhole'})
+event.shaped('waystones:pocket_wormhole', [
+  'VBV',
+  'VXV',
+  'VBV'
+], {
+  X: 'blockus:ender_block',
+  V: 'minecraft:end_stone_bricks',
+  B: 'minecraft:obsidian'
+})
+
+
+// Sticks
   event.shaped(item.of("minecraft:stick", 16), [
     ["#minecraft:logs"],
     ["#minecraft:logs"],

@@ -8,6 +8,30 @@
 					"Count": 127,
 					"type": "item"
 				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:acacia_sapling",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "betterend:umbrella_moss_tall",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "enderitemod:enderite_shulker_box",
+					"Count": 127,
+					"type": "item"
+				}
 			}
 		],
 		// Declares whether cheating mode is on.
@@ -61,7 +85,76 @@
 			"filteringRules": [
 				"{rule:{},id:\"roughlyenoughitems:manual\"}"
 			],
-			"filteredStacks": []
+			"filteredStacks": [
+				{
+					"id": "kibe:express_conveyor_belt",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:birch_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:jungle_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "kibe:slime_sling",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:warped_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:oak_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:dark_oak_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "kibe:slime_boots",
+					"Count": 1,
+					"tag": {
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{
+					"id": "charm:acacia_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:spruce_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "kibe:regular_conveyor_belt",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "kibe:fast_conveyor_belt",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:crimson_barrel",
+					"Count": 1,
+					"type": "item"
+				}
+			]
 		},
 		"tooltips": {
 			// Declares whether REI should append mod names to entries.

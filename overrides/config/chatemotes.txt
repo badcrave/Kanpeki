@@ -1,0 +1,31 @@
+# You can add a custom emote by using the format "key:emote".
+# You can then type the key in chat, surrounded by colons (:key:) and hit tab
+# To add a key that isn't surrounded by colons, put it in quotes (such as "<3":❤)
+
+"<3":❤
+"o/":( ﾟ◡ﾟ)/
+":)":◕‿◕
+"(:":ಠ⌣ಠ
+":(":◉‸◉
+star:✮
+yes:✔
+no:✖
+java:☕
+arrow:➜
+pvp:⚔
+peace:✌
+flower:✿
+typing:✎...
+maths:√(π+x)=L
+shrug:¯\_(ツ)_/¯
+tableflip:(╯°□°）╯︵ ┻━┻
+totem:☉_☉
+gimme:༼つ◕_◕༽つ
+wizard:('-')⊃━☆ﾟ.*･｡ﾟ
+run:ᕕ(՞ᗜ՞)ᕗ
+bear:ʕ ᓀ ᴥ ᓂ ʔ
+rly:ಠ_ಠ
+cry:ಥ_ಥ
+owo:◉﹏◉
+dance:♪ ┏(^o^)┛ ♪
+danse:♪ ┗(^o^)┓ ♪

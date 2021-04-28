@@ -1,0 +1,3 @@
+identifier = smpInfo
+title = SMP Information
+allowesc = true

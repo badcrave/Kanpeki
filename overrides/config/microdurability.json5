@@ -1,8 +1,8 @@
 { 
-	"requireMending": true,
+	"requireMending": false,
 	"minDurability": 100,
 	"minPercent": 10.0,
 	"blinkTime": 1.0,
 	"toolWarning": true,
-	"undamagedBars": true
+	"undamagedBars": false
 }
