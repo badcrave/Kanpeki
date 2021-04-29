@@ -10,7 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Kanpeki v0.2.0",
+  "name": "Kanpeki v0.2.0asfasdf",
+  "version": "0",
   "author": "Xiarora",
   "files": [
     {
@@ -776,6 +777,11 @@
     {
       "projectID": 413207,
       "fileID": 3194197,
+      "required": true
+    },
+    {
+      "projectID": 415438,
+      "fileID": 3257186,
       "required": true
     },
     {
