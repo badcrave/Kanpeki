@@ -33,7 +33,7 @@ graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:fast
-resourcePacks:["vanilla","Fabric Mods","kubejs:resource_pack","visualoverhaul/nobottles","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","file/Consistency-3.2.1.zip","file/Consistency-Fabric-3.0.0.zip","file/Consistency-Fences-1.0.0.zip","file/Inconsistency-3.0.0.zip","file/Better-Leaves-5.2-§31.13+§o.zip","slightguimodifications:cts_textures"]
+resourcePacks:["vanilla","Fabric Mods","kubejs:resource_pack","visualoverhaul/nobottles","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","file/Consistency-3.2.1.zip","file/Consistency-Fabric-3.0.0.zip","file/Consistency-Fences-1.0.0.zip","file/Inconsistency-3.0.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:localhost
 lang:en_us
@@ -109,9 +109,6 @@ key_key.worldeditcui.clear:key.keyboard.unknown
 key_key.worldeditcui.chunk:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.f3
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
-key_key.waila.config:key.keyboard.keypad.0
-key_key.waila.show_overlay:key.keyboard.keypad.1
-key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.autoswitch.toggle:key.keyboard.r
 key_key.curios.open.desc:key.keyboard.i
 key_key.antighost.reveal:key.keyboard.f6
@@ -126,6 +123,11 @@ key_key.voice_chat_settings:key.keyboard.v
 key_key.curiousshulkerboxes.open.desc:key.keyboard.comma
 key_key.backslot.switch_backslot:key.keyboard.g
 key_key.backslot.switch_beltslot:key.keyboard.g
+key_key.waila.config:key.keyboard.keypad.0
+key_key.waila.show_overlay:key.keyboard.keypad.1
+key_key.waila.toggle_liquid:key.keyboard.keypad.2
+key_key.waila.show_recipe_input:key.keyboard.keypad.3
+key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_key.extraalchemy.magnetism_toggle:key.keyboard.j
 key_key.extraalchemy.potion_bag_mode:key.keyboard.k
 key_key.extraalchemy.toggle_curios_rings:key.keyboard.u
@@ -138,10 +140,10 @@ key_key.minimap.togglefullscreen:key.keyboard.x
 key_key.minimap.waypointhotkey:key.keyboard.n
 key_key.minimap.togglemobs:key.keyboard.unknown
 key_key.minimap.toggleingamewaypoints:key.keyboard.unknown
-soundCategory_master:0.0
-soundCategory_music:0.0
+soundCategory_master:1.0
+soundCategory_music:0.35915494
 soundCategory_record:1.0
-soundCategory_weather:0.0
+soundCategory_weather:0.22535211
 soundCategory_block:1.0
 soundCategory_hostile:0.5070422
 soundCategory_neutral:0.5246479
