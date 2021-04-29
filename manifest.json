@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Kanpeki",
-  "version": "v0.2.3",
+  "version": "v0.2.4x",
   "author": "Xiarora",
   "files": [
     {
@@ -817,11 +817,6 @@
     {
       "projectID": 395985,
       "fileID": 3196326,
-      "required": true
-    },
-    {
-      "projectID": 380393,
-      "fileID": 3202525,
       "required": true
     },
     {
