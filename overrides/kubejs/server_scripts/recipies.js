@@ -65,6 +65,11 @@ onEvent('item.tags', event => {
 // Missed Recipies and QOL
 events.listen("recipes", function (event) {
 
+  // Wool Tarp
+  event.shaped(item.of("campanion:wool_tarp"), [
+    ["minecraft:white_wool", "minecraft:white_wool", "minecraft:white_wool"],
+  ]);
+
 // Campanion Bed
 event.replaceOutput({}, 'campanion:sleeping_bag','kibe:white_sleeping_bag')
 

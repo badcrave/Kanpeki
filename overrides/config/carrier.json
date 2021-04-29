@@ -1,0 +1,8 @@
+{
+  "enableGloves": false,
+  "slownessLevel": 3,
+  "hungerExhaustion": 0.01,
+  "type": "BLACKLIST",
+  "list": ["gravestones:gravestone","lookingglass:projector","lookingglass:chunkloader","minecraft:white_bed","minecraft:orange_bed","minecraft:magenta_bed","minecraft:light_blue_bed","minecraft:yellow_bed","minecraft:lime_bed","minecraft:pink_bed","minecraft:gray_bed","minecraft:light_gray_bed","minecraft:cyan_bed","minecraft:purple_bed","minecraft:blue_bed","minecraft:brown_bed","minecraft:green_bed","minecraft:red_bed","minecraft:black_bed","bedspreads:decorated_bed","camsbackpacks:white_backpack","camsbackpacks:orange_backpack","camsbackpacks:magenta_backpack","camsbackpacks:light_blue_backpack","camsbackpacks:yellow_backpack","camsbackpacks:lime_backpack","camsbackpacks:pink_backpack","camsbackpacks:gray_backpack","camsbackpacks:light_gray_backpack","camsbackpacks:cyan_backpack","camsbackpacks:purple_backpack","camsbackpacks:blue_backpack","camsbackpacks:brown_backpack","camsbackpacks:green_backpack","camsbackpacks:red_backpack","camsbackpacks:black_backpack"
+]
+}
