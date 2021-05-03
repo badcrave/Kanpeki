@@ -32,8 +32,8 @@ difficulty:2
 graphicsMode:0
 ao:2
 biomeBlendRadius:2
-renderClouds:fast
-resourcePacks:["vanilla","Fabric Mods","kubejs:resource_pack","visualoverhaul/nobottles","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","file/Consistency-3.2.1.zip","file/Consistency-Fabric-3.0.0.zip","file/Consistency-Fences-1.0.0.zip","file/Inconsistency-3.0.0.zip"]
+renderClouds:true
+resourcePacks:["vanilla","Fabric Mods","kubejs:resource_pack","visualoverhaul/nobottles","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","file/Consistency-3.2.1.zip","file/Consistency-Fabric-3.0.0.zip","file/Consistency-Fences-1.0.0.zip","file/Inconsistency-3.0.0.zip","file/Better-Leaves-5.2-§31.13+§o.zip"]
 incompatibleResourcePacks:[]
 lastServer:localhost
 lang:en_us
@@ -100,6 +100,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_of.key.zoom:key.keyboard.c
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.big_items_duh.toggle-zoom:key.keyboard.left.bracket
@@ -120,6 +121,7 @@ key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat_settings:key.keyboard.v
+key_key.invtrashslot.delete:key.keyboard.delete
 key_key.curiousshulkerboxes.open.desc:key.keyboard.comma
 key_key.backslot.switch_backslot:key.keyboard.g
 key_key.backslot.switch_beltslot:key.keyboard.g
@@ -133,20 +135,20 @@ key_key.extraalchemy.potion_bag_mode:key.keyboard.k
 key_key.extraalchemy.toggle_curios_rings:key.keyboard.u
 key_key.campanion.open_backpack:key.keyboard.b
 key_carrier.key:key.keyboard.unknown
-key_key.minimap.voxelmapmenu:key.keyboard.m
-key_key.minimap.waypointmenu:key.keyboard.unknown
+key_key.minimap.voxelmapmenu:key.keyboard.backslash
+key_key.minimap.waypointmenu:key.keyboard.right.bracket
 key_key.minimap.zoom:key.keyboard.z
 key_key.minimap.togglefullscreen:key.keyboard.x
-key_key.minimap.waypointhotkey:key.keyboard.n
+key_key.minimap.waypointhotkey:key.keyboard.equal
 key_key.minimap.togglemobs:key.keyboard.unknown
-key_key.minimap.toggleingamewaypoints:key.keyboard.unknown
+key_key.minimap.toggleingamewaypoints:key.keyboard.left.bracket
 soundCategory_master:1.0
-soundCategory_music:0.35915494
+soundCategory_music:0.3568075
 soundCategory_record:1.0
-soundCategory_weather:0.22535211
+soundCategory_weather:0.25586855
 soundCategory_block:1.0
 soundCategory_hostile:0.5070422
-soundCategory_neutral:0.5246479
+soundCategory_neutral:0.5023474
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0

@@ -1,41 +1,8 @@
 {
 	"basics": {
-		"favorites": [
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:red_sand",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:acacia_sapling",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "betterend:umbrella_moss_tall",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "enderitemod:enderite_shulker_box",
-					"Count": 127,
-					"type": "item"
-				}
-			}
-		],
+		"favorites": [],
 		// Declares whether cheating mode is on.
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -87,22 +54,7 @@
 			],
 			"filteredStacks": [
 				{
-					"id": "kibe:express_conveyor_belt",
-					"Count": 1,
-					"type": "item"
-				},
-				{
-					"id": "charm:birch_barrel",
-					"Count": 1,
-					"type": "item"
-				},
-				{
-					"id": "charm:jungle_barrel",
-					"Count": 1,
-					"type": "item"
-				},
-				{
-					"id": "kibe:slime_sling",
+					"id": "charm:oak_barrel",
 					"Count": 1,
 					"type": "item"
 				},
@@ -112,17 +64,7 @@
 					"type": "item"
 				},
 				{
-					"id": "charm:oak_barrel",
-					"Count": 1,
-					"type": "item"
-				},
-				{
-					"id": "charm:dark_oak_barrel",
-					"Count": 1,
-					"type": "item"
-				},
-				{
-					"id": "kibe:slime_boots",
+					"id": "campanion:sleeping_bag",
 					"Count": 1,
 					"tag": {
 						"Damage": 0
@@ -135,22 +77,55 @@
 					"type": "item"
 				},
 				{
-					"id": "charm:spruce_barrel",
-					"Count": 1,
-					"type": "item"
-				},
-				{
 					"id": "kibe:regular_conveyor_belt",
 					"Count": 1,
 					"type": "item"
 				},
 				{
-					"id": "kibe:fast_conveyor_belt",
+					"id": "charm:dark_oak_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "kibe:express_conveyor_belt",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:birch_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "kibe:slime_sling",
 					"Count": 1,
 					"type": "item"
 				},
 				{
 					"id": "charm:crimson_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:spruce_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "charm:jungle_barrel",
+					"Count": 1,
+					"type": "item"
+				},
+				{
+					"id": "kibe:slime_boots",
+					"Count": 1,
+					"tag": {
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{
+					"id": "kibe:fast_conveyor_belt",
 					"Count": 1,
 					"type": "item"
 				}
