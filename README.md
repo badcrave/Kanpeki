@@ -10,4 +10,4 @@ The Kanpeki World SMP is an invite-only place for friends to play modded Minecra
 
 # Bugs & Other Issues
 
-If you encounter any bugs or issues with the pack, you can open an issue here on the github and the issue will be pushed to the channel #bugs-and-issues on the [Kanpeki Discord](https://discord.gg/9qJqG9nvN3). This includes issues related to trying to use shader mods or other optimization mods, or problems with anything within the pack. Just let us know what you're experiencing and try to give us as much detail as possible! 
+If you encounter any bugs or issues with the pack, you can open an issue here on the github and the issue will be pushed to the channel **#bugs-and-issues** on the [Kanpeki Discord](https://discord.gg/9qJqG9nvN3). This includes issues related to trying to use shader mods or other optimization mods, or problems with anything within the pack. Just let us know what you're experiencing and try to give us as much detail as possible! 
