@@ -61,7 +61,7 @@ onEvent('item.tags', event => {
   // Charm Barrels Disabled
   event.remove('charm:barrels','minecraft:barrel')
   // Chest Unification
-  event.add('#c:chest','#charm:chests/wooden')
+  event.add('c:chest','#charm:chests/wooden')
 })
 
 // Missed Recipies and QOL
