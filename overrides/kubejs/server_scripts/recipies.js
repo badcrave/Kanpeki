@@ -60,6 +60,8 @@ onEvent('item.tags', event => {
   event.add('curios:back','#okarin:netherite_shulker')
   // Charm Barrels Disabled
   event.remove('charm:barrels','minecraft:barrel')
+  // Chest Unification
+  event.add('#c:chest','#charm:chests/wooden')
 })
 
 // Missed Recipies and QOL
@@ -70,14 +72,17 @@ events.listen("recipes", function (event) {
     ["minecraft:white_wool", "minecraft:white_wool", "minecraft:white_wool"],
   ]);
 
-// Campanion Bed
-event.replaceOutput({}, 'campanion:sleeping_bag','kibe:white_sleeping_bag')
+  // Campanion Bed
+  event.replaceOutput({}, 'campanion:sleeping_bag','kibe:white_sleeping_bag')
 
 // Broken Stuff
   event.remove({output: 'redstonebits:breaker'})
   event.remove({output: 'conveyance:catwalk_stairs'})
   event.remove({output: 'conveyance:catwalk'})
   event.remove({output: 'toms_storage:ts.paint_kit'})
+
+// Chest Unification Recipe
+  event.replaceInput({}, 'minecraft:chest', '#c:chest')
 
 // Enderite Mod
   event.smithing('enderitemod:enderite_shulker_box','#okarin:netherite_shulker','enderitemod:enderite_ingot')
